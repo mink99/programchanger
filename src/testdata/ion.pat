@@ -1,516 +1,512 @@
- 1   0 :	
- 1   0 : Red 0 ...n Bass
- 1   1 : Red 1 ...ss 004
- 1   2 : Red 2 ...lo 001
- 1   3 : Red 3 ...D Bass
- 1   4 : Red 4 ... Nobby
- 1   5 : Red 5 ...s Down
- 1   6 : Red 6 ...essive
- 1   7 : Red 7 : Taurus
- 1   8 : Red 8 : Rubber
- 1   9 : Red 9 ...iMogue
- 1  10 : Red 10...izzler
- 1  11 : Red 11...erheim
- 1  12 : Red 12...orLead
- 1  13 : Red 13  : Cars
- 1  14 : Red 14...M-OBX1
- 1  15 : Red 15  : Lucky
- 1  16 : Red 16...ni 5th
- 1  17 : Red 17  :
- 1  18 : Red 18  :
- 1  19 : Red 19  :
- 1  20 : Red 20  :
- 1  21 : Red 21  :
- 1  22 : Red 22  :
- 1  23 : Red 23  :
- 1  24 : Red 24  :
- 1  25 : Red 25  :
- 1  26 : Red 26  :
- 1  27 : Red 27  :
- 1  28 : Red 28  :
- 1  29 : Red 29  :
- 1  30 : Red 30  :
- 1  31 : Red 31  :
- 1  32 : Red 32  :
- 1  33 : Red 33  :
- 1  34 : Red 34  :
- 1  35 : Red 35  :
- 1  36 : Red 36  :
- 1  37 : Red 37  :
- 1  38 : Red 38  :
- 1  39 : Red 39  :
- 1  40 : Red 40  :
- 1  41 : Red 41  :
- 1  42 : Red 42  :
- 1  43 : Red 43  :
- 1  44 : Red 44  :
- 1  45 : Red 45  :
- 1  46 : Red 46  :
- 1  47 : Red 47  :
- 1  48 : Red 48  :
- 1  49 : Red 49  :
- 1  50 : Red 50  :
- 1  51 : Red 51  :
- 1  52 : Red 52  :
- 1  53 : Red 53  :
- 1  54 : Red 54  :
- 1  55 : Red 55  :
- 1  56 : Red 56  :
- 1  57 : Red 57  :
- 1  58 : Red 58  :
- 1  59 : Red 59  :
- 1  60 : Red 60  :
- 1  61 : Red 61  :
- 1  62 : Red 62  :
- 1  63 : Red 63  :
- 1  64 : Red 64  :
- 1  65 : Red 65  :
- 1  66 : Red 66  :
- 1  67 : Red 67  :
- 1  68 : Red 68  :
- 1  69 : Red 69  :
- 1  70 : Red 70  :
- 1  71 : Red 71  :
- 1  72 : Red 72  :
- 1  73 : Red 73  :
- 1  74 : Red 74  :
- 1  75 : Red 75  :
- 1  76 : Red 76  :
- 1  77 : Red 77  :
- 1  78 : Red 78  :
- 1  79 : Red 79  :
- 1  80 : Red 80  :
- 1  81 : Red 81  :
- 1  82 : Red 82  :
- 1  83 : Red 83  :
- 1  84 : Red 84  :
- 1  85 : Red 85  :
- 1  86 : Red 86  :
- 1  87 : Red 87  :
- 1  88 : Red 88  :
- 1  89 : Red 89  :
- 1  90 : Red 90  :
- 1  91 : Red 91  :
- 1  92 : Red 92  :
- 1  93 : Red 93  :
- 1  94 : Red 94  :
- 1  95 : Red 95  :
- 1  96 : Red 96  :
- 1  97 : Red 97  :
- 1  98 : Red 98  :
- 1  99 : Red 99  :
- 1 100 : Red 100  :
- 1 101 : Red 101  :
- 1 102 : Red 102  :
- 1 103 : Red 103  :
- 1 104 : Red 104  :
- 1 105 : Red 105  :
- 1 106 : Red 106  :
- 1 107 : Red 107  :
- 1 108 : Red 108  :
- 1 109 : Red 109  :
- 1 110 : Red 110  :
- 1 111 : Red 111  :
- 1 112 : Red 112  :
- 1 113 : Red 113  :
- 1 114 : Red 114  :
- 1 115 : Red 115  :
- 1 116 : Red 116  :
- 1 117 : Red 117  :
- 1 118 : Red 118  :
- 1 119 : Red 119  :
- 1 120 : Red 120  :
- 1 121 : Red 121  :
- 1 122 : Red 122  :
- 1 123 : Red 123  :
- 1 124 : Red 124  :
- 1 125 : Red 125  :
- 1 126 : Red 126  :
- 1 127 : Red 127  :
- 2   0 :	
- 2   0 : Preset NR: 0
- 2   1 : Preset NR: 1
- 2   2 : Preset NR: 2
- 2   3 : Preset NR: 3
- 2   4 : Preset NR: 4
- 2   5 : Preset NR: 5
- 2   6 : Preset NR: 6
- 2   7 : Preset NR: 7
- 2   8 : Preset NR: 8
- 2   9 : Preset NR: 9
- 2  10 : Preset NR: 10
- 2  11 : Preset NR: 11
- 2  12 : Preset NR: 12
- 2  13 : Preset NR: 13
- 2  14 : Preset NR: 14
- 2  15 : Preset NR: 15
- 2  16 : Preset NR: 16
- 2  17 : Preset NR: 17
- 2  18 : Preset NR: 18
- 2  19 : Preset NR: 19
- 2  20 : Preset NR: 20
- 2  21 : Preset NR: 21
- 2  22 : Preset NR: 22
- 2  23 : Preset NR: 23
- 2  24 : Preset NR: 24
- 2  25 : Preset NR: 25
- 2  26 : Preset NR: 26
- 2  27 : Preset NR: 27
- 2  28 : Preset NR: 28
- 2  29 : Preset NR: 29
- 2  30 : Preset NR: 30
- 2  31 : Preset NR: 31
- 2  32 : Preset NR: 32
- 2  33 : Preset NR: 33
- 2  34 : Preset NR: 34
- 2  35 : Preset NR: 35
- 2  36 : Preset NR: 36
- 2  37 : Preset NR: 37
- 2  38 : Preset NR: 38
- 2  39 : Preset NR: 39
- 2  40 : Preset NR: 40
- 2  41 : Preset NR: 41
- 2  42 : Preset NR: 42
- 2  43 : Preset NR: 43
- 2  44 : Preset NR: 44
- 2  45 : Preset NR: 45
- 2  46 : Preset NR: 46
- 2  47 : Preset NR: 47
- 2  48 : Preset NR: 48
- 2  49 : Preset NR: 49
- 2  50 : Preset NR: 50
- 2  51 : Preset NR: 51
- 2  52 : Preset NR: 52
- 2  53 : Preset NR: 53
- 2  54 : Preset NR: 54
- 2  55 : Preset NR: 55
- 2  56 : Preset NR: 56
- 2  57 : Preset NR: 57
- 2  58 : Preset NR: 58
- 2  59 : Preset NR: 59
- 2  60 : Preset NR: 60
- 2  61 : Preset NR: 61
- 2  62 : Preset NR: 62
- 2  63 : Preset NR: 63
- 2  64 : Preset NR: 64
- 2  65 : Preset NR: 65
- 2  66 : Preset NR: 66
- 2  67 : Preset NR: 67
- 2  68 : Preset NR: 68
- 2  69 : Preset NR: 69
- 2  70 : Preset NR: 70
- 2  71 : Preset NR: 71
- 2  72 : Preset NR: 72
- 2  73 : Preset NR: 73
- 2  74 : Preset NR: 74
- 2  75 : Preset NR: 75
- 2  76 : Preset NR: 76
- 2  77 : Preset NR: 77
- 2  78 : Preset NR: 78
- 2  79 : Preset NR: 79
- 2  80 : Preset NR: 80
- 2  81 : Preset NR: 81
- 2  82 : Preset NR: 82
- 2  83 : Preset NR: 83
- 2  84 : Preset NR: 84
- 2  85 : Preset NR: 85
- 2  86 : Preset NR: 86
- 2  87 : Preset NR: 87
- 2  88 : Preset NR: 88
- 2  89 : Preset NR: 89
- 2  90 : Preset NR: 90
- 2  91 : Preset NR: 91
- 2  92 : Preset NR: 92
- 2  93 : Preset NR: 93
- 2  94 : Preset NR: 94
- 2  95 : Preset NR: 95
- 2  96 : Preset NR: 96
- 2  97 : Preset NR: 97
- 2  98 : Preset NR: 98
- 2  99 : Preset NR: 99
- 2 100 : Preset NR: 100
- 2 101 : Preset NR: 101
- 2 102 : Preset NR: 102
- 2 103 : Preset NR: 103
- 2 104 : Preset NR: 104
- 2 105 : Preset NR: 105
- 2 106 : Preset NR: 106
- 2 107 : Preset NR: 107
- 2 108 : Preset NR: 108
- 2 109 : Preset NR: 109
- 2 110 : Preset NR: 110
- 2 111 : Preset NR: 111
- 2 112 : Preset NR: 112
- 2 113 : Preset NR: 113
- 2 114 : Preset NR: 114
- 2 115 : Preset NR: 115
- 2 116 : Preset NR: 116
- 2 117 : Preset NR: 117
- 2 118 : Preset NR: 118
- 2 119 : Preset NR: 119
- 2 120 : Preset NR: 120
- 2 121 : Preset NR: 121
- 2 122 : Preset NR: 122
- 2 123 : Preset NR: 123
- 2 124 : Preset NR: 124
- 2 125 : Preset NR: 125
- 2 126 : Preset NR: 126
- 2 127 : Preset NR: 127
- 3   0 :	
- 3   0 : Preset NR: 0
- 3   1 : Preset NR: 1
- 3   2 : Preset NR: 2
- 3   3 : Preset NR: 3
- 3   4 : Preset NR: 4
- 3   5 : Preset NR: 5
- 3   6 : Preset NR: 6
- 3   7 : Preset NR: 7
- 3   8 : Preset NR: 8
- 3   9 : Preset NR: 9
- 3  10 : Preset NR: 10
- 3  11 : Preset NR: 11
- 3  12 : Preset NR: 12
- 3  13 : Preset NR: 13
- 3  14 : Preset NR: 14
- 3  15 : Preset NR: 15
- 3  16 : Preset NR: 16
- 3  17 : Preset NR: 17
- 3  18 : Preset NR: 18
- 3  19 : Preset NR: 19
- 3  20 : Preset NR: 20
- 3  21 : Preset NR: 21
- 3  22 : Preset NR: 22
- 3  23 : Preset NR: 23
- 3  24 : Preset NR: 24
- 3  25 : Preset NR: 25
- 3  26 : Preset NR: 26
- 3  27 : Preset NR: 27
- 3  28 : Preset NR: 28
- 3  29 : Preset NR: 29
- 3  30 : Preset NR: 30
- 3  31 : Preset NR: 31
- 3  32 : Preset NR: 32
- 3  33 : Preset NR: 33
- 3  34 : Preset NR: 34
- 3  35 : Preset NR: 35
- 3  36 : Preset NR: 36
- 3  37 : Preset NR: 37
- 3  38 : Preset NR: 38
- 3  39 : Preset NR: 39
- 3  40 : Preset NR: 40
- 3  41 : Preset NR: 41
- 3  42 : Preset NR: 42
- 3  43 : Preset NR: 43
- 3  44 : Preset NR: 44
- 3  45 : Preset NR: 45
- 3  46 : Preset NR: 46
- 3  47 : Preset NR: 47
- 3  48 : Preset NR: 48
- 3  49 : Preset NR: 49
- 3  50 : Preset NR: 50
- 3  51 : Preset NR: 51
- 3  52 : Preset NR: 52
- 3  53 : Preset NR: 53
- 3  54 : Preset NR: 54
- 3  55 : Preset NR: 55
- 3  56 : Preset NR: 56
- 3  57 : Preset NR: 57
- 3  58 : Preset NR: 58
- 3  59 : Preset NR: 59
- 3  60 : Preset NR: 60
- 3  61 : Preset NR: 61
- 3  62 : Preset NR: 62
- 3  63 : Preset NR: 63
- 3  64 : Preset NR: 64
- 3  65 : Preset NR: 65
- 3  66 : Preset NR: 66
- 3  67 : Preset NR: 67
- 3  68 : Preset NR: 68
- 3  69 : Preset NR: 69
- 3  70 : Preset NR: 70
- 3  71 : Preset NR: 71
- 3  72 : Preset NR: 72
- 3  73 : Preset NR: 73
- 3  74 : Preset NR: 74
- 3  75 : Preset NR: 75
- 3  76 : Preset NR: 76
- 3  77 : Preset NR: 77
- 3  78 : Preset NR: 78
- 3  79 : Preset NR: 79
- 3  80 : Preset NR: 80
- 3  81 : Preset NR: 81
- 3  82 : Preset NR: 82
- 3  83 : Preset NR: 83
- 3  84 : Preset NR: 84
- 3  85 : Preset NR: 85
- 3  86 : Preset NR: 86
- 3  87 : Preset NR: 87
- 3  88 : Preset NR: 88
- 3  89 : Preset NR: 89
- 3  90 : Preset NR: 90
- 3  91 : Preset NR: 91
- 3  92 : Preset NR: 92
- 3  93 : Preset NR: 93
- 3  94 : Preset NR: 94
- 3  95 : Preset NR: 95
- 3  96 : Preset NR: 96
- 3  97 : Preset NR: 97
- 3  98 : Preset NR: 98
- 3  99 : Preset NR: 99
- 3 100 : Preset NR: 100
- 3 101 : Preset NR: 101
- 3 102 : Preset NR: 102
- 3 103 : Preset NR: 103
- 3 104 : Preset NR: 104
- 3 105 : Preset NR: 105
- 3 106 : Preset NR: 106
- 3 107 : Preset NR: 107
- 3 108 : Preset NR: 108
- 3 109 : Preset NR: 109
- 3 110 : Preset NR: 110
- 3 111 : Preset NR: 111
- 3 112 : Preset NR: 112
- 3 113 : Preset NR: 113
- 3 114 : Preset NR: 114
- 3 115 : Preset NR: 115
- 3 116 : Preset NR: 116
- 3 117 : Preset NR: 117
- 3 118 : Preset NR: 118
- 3 119 : Preset NR: 119
- 3 120 : Preset NR: 120
- 3 121 : Preset NR: 121
- 3 122 : Preset NR: 122
- 3 123 : Preset NR: 123
- 3 124 : Preset NR: 124
- 3 125 : Preset NR: 125
- 3 126 : Preset NR: 126
- 3 127 : Preset NR: 127
- 4   0 :	
- 4   0 : Preset NR: 0
- 4   1 : Preset NR: 1
- 4   2 : Preset NR: 2
- 4   3 : Preset NR: 3
- 4   4 : Preset NR: 4
- 4   5 : Preset NR: 5
- 4   6 : Preset NR: 6
- 4   7 : Preset NR: 7
- 4   8 : Preset NR: 8
- 4   9 : Preset NR: 9
- 4  10 : Preset NR: 10
- 4  11 : Preset NR: 11
- 4  12 : Preset NR: 12
- 4  13 : Preset NR: 13
- 4  14 : Preset NR: 14
- 4  15 : Preset NR: 15
- 4  16 : Preset NR: 16
- 4  17 : Preset NR: 17
- 4  18 : Preset NR: 18
- 4  19 : Preset NR: 19
- 4  20 : Preset NR: 20
- 4  21 : Preset NR: 21
- 4  22 : Preset NR: 22
- 4  23 : Preset NR: 23
- 4  24 : Preset NR: 24
- 4  25 : Preset NR: 25
- 4  26 : Preset NR: 26
- 4  27 : Preset NR: 27
- 4  28 : Preset NR: 28
- 4  29 : Preset NR: 29
- 4  30 : Preset NR: 30
- 4  31 : Preset NR: 31
- 4  32 : Preset NR: 32
- 4  33 : Preset NR: 33
- 4  34 : Preset NR: 34
- 4  35 : Preset NR: 35
- 4  36 : Preset NR: 36
- 4  37 : Preset NR: 37
- 4  38 : Preset NR: 38
- 4  39 : Preset NR: 39
- 4  40 : Preset NR: 40
- 4  41 : Preset NR: 41
- 4  42 : Preset NR: 42
- 4  43 : Preset NR: 43
- 4  44 : Preset NR: 44
- 4  45 : Preset NR: 45
- 4  46 : Preset NR: 46
- 4  47 : Preset NR: 47
- 4  48 : Preset NR: 48
- 4  49 : Preset NR: 49
- 4  50 : Preset NR: 50
- 4  51 : Preset NR: 51
- 4  52 : Preset NR: 52
- 4  53 : Preset NR: 53
- 4  54 : Preset NR: 54
- 4  55 : Preset NR: 55
- 4  56 : Preset NR: 56
- 4  57 : Preset NR: 57
- 4  58 : Preset NR: 58
- 4  59 : Preset NR: 59
- 4  60 : Preset NR: 60
- 4  61 : Preset NR: 61
- 4  62 : Preset NR: 62
- 4  63 : Preset NR: 63
- 4  64 : Preset NR: 64
- 4  65 : Preset NR: 65
- 4  66 : Preset NR: 66
- 4  67 : Preset NR: 67
- 4  68 : Preset NR: 68
- 4  69 : Preset NR: 69
- 4  70 : Preset NR: 70
- 4  71 : Preset NR: 71
- 4  72 : Preset NR: 72
- 4  73 : Preset NR: 73
- 4  74 : Preset NR: 74
- 4  75 : Preset NR: 75
- 4  76 : Preset NR: 76
- 4  77 : Preset NR: 77
- 4  78 : Preset NR: 78
- 4  79 : Preset NR: 79
- 4  80 : Preset NR: 80
- 4  81 : Preset NR: 81
- 4  82 : Preset NR: 82
- 4  83 : Preset NR: 83
- 4  84 : Preset NR: 84
- 4  85 : Preset NR: 85
- 4  86 : Preset NR: 86
- 4  87 : Preset NR: 87
- 4  88 : Preset NR: 88
- 4  89 : Preset NR: 89
- 4  90 : Preset NR: 90
- 4  91 : Preset NR: 91
- 4  92 : Preset NR: 92
- 4  93 : Preset NR: 93
- 4  94 : Preset NR: 94
- 4  95 : Preset NR: 95
- 4  96 : Preset NR: 96
- 4  97 : Preset NR: 97
- 4  98 : Preset NR: 98
- 4  99 : Preset NR: 99
- 4 100 : Preset NR: 100
- 4 101 : Preset NR: 101
- 4 102 : Preset NR: 102
- 4 103 : Preset NR: 103
- 4 104 : Preset NR: 104
- 4 105 : Preset NR: 105
- 4 106 : Preset NR: 106
- 4 107 : Preset NR: 107
- 4 108 : Preset NR: 108
- 4 109 : Preset NR: 109
- 4 110 : Preset NR: 110
- 4 111 : Preset NR: 111
- 4 112 : Preset NR: 112
- 4 113 : Preset NR: 113
- 4 114 : Preset NR: 114
- 4 115 : Preset NR: 115
- 4 116 : Preset NR: 116
- 4 117 : Preset NR: 117
- 4 118 : Preset NR: 118
- 4 119 : Preset NR: 119
- 4 120 : Preset NR: 120
- 4 121 : Preset NR: 121
- 4 122 : Preset NR: 122
- 4 123 : Preset NR: 123
- 4 124 : Preset NR: 124
- 4 125 : Preset NR: 125
- 4 126 : Preset NR: 126
- 4 127 : Preset NR: 127
+ 1   0     2
+ 1   1     3
+ 1   2     4
+ 1   3     5
+ 1   4     6
+ 1   5     7
+ 1   6     8
+ 1   7     9
+ 1   8    10
+ 2   9    12
+ 2  10    13
+ 2  11    14
+ 2  12    15
+ 2  13    16
+ 2  14    17
+ 2  15    18
+ 2  16    19
+ 2  17    20
+ 2  18    21
+ 2  19    22
+ 2  20    23
+ 2  21    24
+ 2  22    25
+ 2  23    26
+ 2  24    27
+ 2  25    28
+ 2  26    29
+ 2  27    30
+ 2  28    31
+ 2  29    32
+ 2  30    33
+ 2  31    34
+ 2  32    35
+ 2  33    36
+ 2  34    37
+ 2  35    38
+ 2  36    39
+ 2  37    40
+ 2  38    41
+ 2  39    42
+ 2  40    43
+ 2  41    44
+ 2  42    45
+ 2  43    46
+ 2  44    47
+ 2  45    48
+ 2  46    49
+ 2  47    50
+ 2  48    51
+ 2  49    52
+ 2  50    53
+ 2  51    54
+ 2  52    55
+ 2  53    56
+ 2  54    57
+ 2  55    58
+ 2  56    59
+ 2  57    60
+ 2  58    61
+ 2  59    62
+ 2  60    63
+ 2  61    64
+ 2  62    65
+ 2  63    66
+ 2  64    67
+ 2  65    68
+ 2  66    69
+ 2  67    70
+ 2  68    71
+ 2  69    72
+ 2  70    73
+ 2  71    74
+ 2  72    75
+ 2  73    76
+ 2  74    77
+ 2  75    78
+ 2  76    79
+ 2  77    80
+ 2  78    81
+ 2  79    82
+ 2  80    83
+ 2  81    84
+ 2  82    85
+ 2  83    86
+ 2  84    87
+ 2  85    88
+ 2  86    89
+ 2  87    90
+ 2  88    91
+ 2  89    92
+ 2  90    93
+ 2  91    94
+ 2  92    95
+ 2  93    96
+ 2  94    97
+ 2  95    98
+ 2  96    99
+ 2  97   100
+ 2  98   101
+ 2  99   102
+ 2 100   103
+ 2 101   104
+ 2 102   105
+ 2 103   106
+ 2 104   107
+ 2 105   108
+ 2 106   109
+ 2 107   110
+ 2 108   111
+ 2 109   112
+ 2 110   113
+ 2 111   114
+ 2 112   115
+ 2 113   116
+ 2 114   117
+ 2 115   118
+ 2 116   119
+ 2 117   120
+ 2 118   121
+ 2 119   122
+ 2 120   123
+ 2 121   124
+ 2 122   125
+ 2 123   126
+ 2 124   127
+ 2 125   128
+ 2 126   129
+ 2 127   130
+ 3   0   132
+ 3   1   133
+ 3   2   134
+ 3   3   135
+ 3   4   136
+ 3   5   137
+ 3   6   138
+ 3   7   139
+ 3   8   140
+ 3   9   141
+ 3  10   142
+ 3  11   143
+ 3  12   144
+ 3  13   145
+ 3  14   146
+ 3  15   147
+ 3  16   148
+ 3  17   149
+ 3  18   150
+ 3  19   151
+ 3  20   152
+ 3  21   153
+ 3  22   154
+ 3  23   155
+ 3  24   156
+ 3  25   157
+ 3  26   158
+ 3  27   159
+ 3  28   160
+ 3  29   161
+ 3  30   162
+ 3  31   163
+ 3  32   164
+ 3  33   165
+ 3  34   166
+ 3  35   167
+ 3  36   168
+ 3  37   169
+ 3  38   170
+ 3  39   171
+ 3  40   172
+ 3  41   173
+ 3  42   174
+ 3  43   175
+ 3  44   176
+ 3  45   177
+ 3  46   178
+ 3  47   179
+ 3  48   180
+ 3  49   181
+ 3  50   182
+ 3  51   183
+ 3  52   184
+ 3  53   185
+ 3  54   186
+ 3  55   187
+ 3  56   188
+ 3  57   189
+ 3  58   190
+ 3  59   191
+ 3  60   192
+ 3  61   193
+ 3  62   194
+ 3  63   195
+ 3  64   196
+ 3  65   197
+ 3  66   198
+ 3  67   199
+ 3  68   200
+ 3  69   201
+ 3  70   202
+ 3  71   203
+ 3  72   204
+ 3  73   205
+ 3  74   206
+ 3  75   207
+ 3  76   208
+ 3  77   209
+ 3  78   210
+ 3  79   211
+ 3  80   212
+ 3  81   213
+ 3  82   214
+ 3  83   215
+ 3  84   216
+ 3  85   217
+ 3  86   218
+ 3  87   219
+ 3  88   220
+ 3  89   221
+ 3  90   222
+ 3  91   223
+ 3  92   224
+ 3  93   225
+ 3  94   226
+ 3  95   227
+ 3  96   228
+ 3  97   229
+ 3  98   230
+ 3  99   231
+ 3 100   232
+ 3 101   233
+ 3 102   234
+ 3 103   235
+ 3 104   236
+ 3 105   237
+ 3 106   238
+ 3 107   239
+ 3 108   240
+ 3 109   241
+ 3 110   242
+ 3 111   243
+ 3 112   244
+ 3 113   245
+ 3 114   246
+ 3 115   247
+ 3 116   248
+ 3 117   249
+ 3 118   250
+ 3 119   251
+ 3 120   252
+ 3 121   253
+ 3 122   254
+ 3 123   255
+ 3 124   256
+ 3 125   257
+ 3 126   258
+ 3 127   259
+ 4   0   261
+ 4   1   262
+ 4   2   263
+ 4   3   264
+ 4   4   265
+ 4   5   266
+ 4   6   267
+ 4   7   268
+ 4   8   269
+ 4   9   270
+ 4  10   271
+ 4  11   272
+ 4  12   273
+ 4  13   274
+ 4  14   275
+ 4  15   276
+ 4  16   277
+ 4  17   278
+ 4  18   279
+ 4  19   280
+ 4  20   281
+ 4  21   282
+ 4  22   283
+ 4  23   284
+ 4  24   285
+ 4  25   286
+ 4  26   287
+ 4  27   288
+ 4  28   289
+ 4  29   290
+ 4  30   291
+ 4  31   292
+ 4  32   293
+ 4  33   294
+ 4  34   295
+ 4  35   296
+ 4  36   297
+ 4  37   298
+ 4  38   299
+ 4  39   300
+ 4  40   301
+ 4  41   302
+ 4  42   303
+ 4  43   304
+ 4  44   305
+ 4  45   306
+ 4  46   307
+ 4  47   308
+ 4  48   309
+ 4  49   310
+ 4  50   311
+ 4  51   312
+ 4  52   313
+ 4  53   314
+ 4  54   315
+ 4  55   316
+ 4  56   317
+ 4  57   318
+ 4  58   319
+ 4  59   320
+ 4  60   321
+ 4  61   322
+ 4  62   323
+ 4  63   324
+ 4  64   325
+ 4  65   326
+ 4  66   327
+ 4  67   328
+ 4  68   329
+ 4  69   330
+ 4  70   331
+ 4  71   332
+ 4  72   333
+ 4  73   334
+ 4  74   335
+ 4  75   336
+ 4  76   337
+ 4  77   338
+ 4  78   339
+ 4  79   340
+ 4  80   341
+ 4  81   342
+ 4  82   343
+ 4  83   344
+ 4  84   345
+ 4  85   346
+ 4  86   347
+ 4  87   348
+ 4  88   349
+ 4  89   350
+ 4  90   351
+ 4  91   352
+ 4  92   353
+ 4  93   354
+ 4  94   355
+ 4  95   356
+ 4  96   357
+ 4  97   358
+ 4  98   359
+ 4  99   360
+ 4 100   361
+ 4 101   362
+ 4 102   363
+ 4 103   364
+ 4 104   365
+ 4 105   366
+ 4 106   367
+ 4 107   368
+ 4 108   369
+ 4 109   370
+ 4 110   371
+ 4 111   372
+ 4 112   373
+ 4 113   374
+ 4 114   375
+ 4 115   376
+ 4 116   377
+ 4 117   378
+ 4 118   379
+ 4 119   380
+ 4 120   381
+ 4 121   382
+ 4 122   383
+ 4 123   384
+ 4 124   385
+ 4 125   386
+ 4 126   387
+ 4 127   388
+ 5   0   390
+ 5   1   391
+ 5   2   392
+ 5   3   393
+ 5   4   394
+ 5   5   395
+ 5   6   396
+ 5   7   397
+ 5   8   398
+ 5   9   399
+ 5  10   400
+ 5  11   401
+ 5  12   402
+ 5  13   403
+ 5  14   404
+ 5  15   405
+ 5  16   406
+ 5  17   407
+ 5  18   408
+ 5  19   409
+ 5  20   410
+ 5  21   411
+ 5  22   412
+ 5  23   413
+ 5  24   414
+ 5  25   415
+ 5  26   416
+ 5  27   417
+ 5  28   418
+ 5  29   419
+ 5  30   420
+ 5  31   421
+ 5  32   422
+ 5  33   423
+ 5  34   424
+ 5  35   425
+ 5  36   426
+ 5  37   427
+ 5  38   428
+ 5  39   429
+ 5  40   430
+ 5  41   431
+ 5  42   432
+ 5  43   433
+ 5  44   434
+ 5  45   435
+ 5  46   436
+ 5  47   437
+ 5  48   438
+ 5  49   439
+ 5  50   440
+ 5  51   441
+ 5  52   442
+ 5  53   443
+ 5  54   444
+ 5  55   445
+ 5  56   446
+ 5  57   447
+ 5  58   448
+ 5  59   449
+ 5  60   450
+ 5  61   451
+ 5  62   452
+ 5  63   453
+ 5  64   454
+ 5  65   455
+ 5  66   456
+ 5  67   457
+ 5  68   458
+ 5  69   459
+ 5  70   460
+ 5  71   461
+ 5  72   462
+ 5  73   463
+ 5  74   464
+ 5  75   465
+ 5  76   466
+ 5  77   467
+ 5  78   468
+ 5  79   469
+ 5  80   470
+ 5  81   471
+ 5  82   472
+ 5  83   473
+ 5  84   474
+ 5  85   475
+ 5  86   476
+ 5  87   477
+ 5  88   478
+ 5  89   479
+ 5  90   480
+ 5  91   481
+ 5  92   482
+ 5  93   483
+ 5  94   484
+ 5  95   485
+ 5  96   486
+ 5  97   487
+ 5  98   488
+ 5  99   489
+ 5 100   490
+ 5 101   491
+ 5 102   492
+ 5 103   493
+ 5 104   494
+ 5 105   495
+ 5 106   496
+ 5 107   497
+ 5 108   498
+ 5 109   499
+ 5 110   500
+ 5 111   501
+ 5 112   502
+ 5 113   503
+ 5 114   504
+ 5 115   505
+ 5 116   506
+ 5 117   507
+ 5 118   508
+ 5 119   509
+ 5 120   510
+ 5 121   511
+ 5 122   512
+ 5 123   513
+ 5 124   514
+ 5 125   515
+ 5 126   516
+ 5 127   517

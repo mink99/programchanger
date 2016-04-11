@@ -1,0 +1,517 @@
+  1 :RED                 :B
+  2 :Red 0 :...n Bass    :P
+  3 :Red 1 :...ss 004    :P
+  4 :Red 2 :...lo 001    :P
+  5 :Red 3 :...D Bass    :P
+  6 :Red 4 :... Nobby    :P
+  7 :Red 5 :...s Down    :P
+  8 :Red 6 :...essive    :P
+  9 :Red 7 : Taurus      :P
+ 10 :Red 8 : Rubber      :P
+ 11 :RED-2               :B
+ 12 :Red 9 :...iMogue    :P
+ 13 :Red 10 ...izzler    :P
+ 14 :Red 11 ...erheim    :P
+ 15 :Red 12 ...orLead    :P
+ 16 :Red 13  : Cars      :P
+ 17 :Red 14  : M-OBX1    :P
+ 18 :Red 15  : Lucky     :P
+ 19 :Red 16 ...ni 5th    :P
+ 20 :Red 17  :           :P
+ 21 :Red 18  :           :P
+ 22 :Red 19  :           :P
+ 23 :Red 20  :           :P
+ 24 :Red 21  :           :P
+ 25 :Red 22  :           :P
+ 26 :Red 23  :           :P
+ 27 :Red 24  :           :P
+ 28 :Red 25  :           :P
+ 29 :Red 26  :           :P
+ 30 :Red 27  :           :P
+ 31 :Red 28  :           :P
+ 32 :Red 29  :           :P
+ 33 :Red 30  :           :P
+ 34 :Red 31  :           :P
+ 35 :Red 32  :           :P
+ 36 :Red 33  :           :P
+ 37 :Red 34  :           :P
+ 38 :Red 35  :           :P
+ 39 :Red 36  :           :P
+ 40 :Red 37  :           :P
+ 41 :Red 38  :           :P
+ 42 :Red 39  :           :P
+ 43 :Red 40  :           :P
+ 44 :Red 41  :           :P
+ 45 :Red 42  :           :P
+ 46 :Red 43  :           :P
+ 47 :Red 44  :           :P
+ 48 :Red 45  :           :P
+ 49 :Red 46  :           :P
+ 50 :Red 47  :           :P
+ 51 :Red 48  :           :P
+ 52 :Red 49  :           :P
+ 53 :Red 50  :           :P
+ 54 :Red 51  :           :P
+ 55 :Red 52  :           :P
+ 56 :Red 53  :           :P
+ 57 :Red 54  :           :P
+ 58 :Red 55  :           :P
+ 59 :Red 56  :           :P
+ 60 :Red 57  :           :P
+ 61 :Red 58  :           :P
+ 62 :Red 59  :           :P
+ 63 :Red 60  :           :P
+ 64 :Red 61  :           :P
+ 65 :Red 62  :           :P
+ 66 :Red 63  :           :P
+ 67 :Red 64  :           :P
+ 68 :Red 65  :           :P
+ 69 :Red 66  :           :P
+ 70 :Red 67  :           :P
+ 71 :Red 68  :           :P
+ 72 :Red 69  :           :P
+ 73 :Red 70  :           :P
+ 74 :Red 71  :           :P
+ 75 :Red 72  :           :P
+ 76 :Red 73  :           :P
+ 77 :Red 74  :           :P
+ 78 :Red 75  :           :P
+ 79 :Red 76  :           :P
+ 80 :Red 77  :           :P
+ 81 :Red 78  :           :P
+ 82 :Red 79  :           :P
+ 83 :Red 80  :           :P
+ 84 :Red 81  :           :P
+ 85 :Red 82  :           :P
+ 86 :Red 83  :           :P
+ 87 :Red 84  :           :P
+ 88 :Red 85  :           :P
+ 89 :Red 86  :           :P
+ 90 :Red 87  :           :P
+ 91 :Red 88  :           :P
+ 92 :Red 89  :           :P
+ 93 :Red 90  :           :P
+ 94 :Red 91  :           :P
+ 95 :Red 92  :           :P
+ 96 :Red 93  :           :P
+ 97 :Red 94  :           :P
+ 98 :Red 95  :           :P
+ 99 :Red 96  :           :P
+100 :Red 97  :           :P
+101 :Red 98  :           :P
+102 :Red 99  :           :P
+103 :Red 100  :          :P
+104 :Red 101  :          :P
+105 :Red 102  :          :P
+106 :Red 103  :          :P
+107 :Red 104  :          :P
+108 :Red 105  :          :P
+109 :Red 106  :          :P
+110 :Red 107  :          :P
+111 :Red 108  :          :P
+112 :Red 109  :          :P
+113 :Red 110  :          :P
+114 :Red 111  :          :P
+115 :Red 112  :          :P
+116 :Red 113  :          :P
+117 :Red 114  :          :P
+118 :Red 115  :          :P
+119 :Red 116  :          :P
+120 :Red 117  :          :P
+121 :Red 118  :          :P
+122 :Red 119  :          :P
+123 :Red 120  :          :P
+124 :Red 121  :          :P
+125 :Red 122  :          :P
+126 :Red 123  :          :P
+127 :Red 124  :          :P
+128 :Red 125  :          :P
+129 :Red 126  :          :P
+130 :Red 127  :          :P
+131 :GREEN               :B
+132 :Preset NR: 0        :P
+133 :Preset NR: 1        :P
+134 :Preset NR: 2        :P
+135 :Preset NR: 3        :P
+136 :Preset NR: 4        :P
+137 :Preset NR: 5        :P
+138 :Preset NR: 6        :P
+139 :Preset NR: 7        :P
+140 :Preset NR: 8        :P
+141 :Preset NR: 9        :P
+142 :Preset NR: 10       :P
+143 :Preset NR: 11       :P
+144 :Preset NR: 12       :P
+145 :Preset NR: 13       :P
+146 :Preset NR: 14       :P
+147 :Preset NR: 15       :P
+148 :Preset NR: 16       :P
+149 :Preset NR: 17       :P
+150 :Preset NR: 18       :P
+151 :Preset NR: 19       :P
+152 :Preset NR: 20       :P
+153 :Preset NR: 21       :P
+154 :Preset NR: 22       :P
+155 :Preset NR: 23       :P
+156 :Preset NR: 24       :P
+157 :Preset NR: 25       :P
+158 :Preset NR: 26       :P
+159 :Preset NR: 27       :P
+160 :Preset NR: 28       :P
+161 :Preset NR: 29       :P
+162 :Preset NR: 30       :P
+163 :Preset NR: 31       :P
+164 :Preset NR: 32       :P
+165 :Preset NR: 33       :P
+166 :Preset NR: 34       :P
+167 :Preset NR: 35       :P
+168 :Preset NR: 36       :P
+169 :Preset NR: 37       :P
+170 :Preset NR: 38       :P
+171 :Preset NR: 39       :P
+172 :Preset NR: 40       :P
+173 :Preset NR: 41       :P
+174 :Preset NR: 42       :P
+175 :Preset NR: 43       :P
+176 :Preset NR: 44       :P
+177 :Preset NR: 45       :P
+178 :Preset NR: 46       :P
+179 :Preset NR: 47       :P
+180 :Preset NR: 48       :P
+181 :Preset NR: 49       :P
+182 :Preset NR: 50       :P
+183 :Preset NR: 51       :P
+184 :Preset NR: 52       :P
+185 :Preset NR: 53       :P
+186 :Preset NR: 54       :P
+187 :Preset NR: 55       :P
+188 :Preset NR: 56       :P
+189 :Preset NR: 57       :P
+190 :Preset NR: 58       :P
+191 :Preset NR: 59       :P
+192 :Preset NR: 60       :P
+193 :Preset NR: 61       :P
+194 :Preset NR: 62       :P
+195 :Preset NR: 63       :P
+196 :Preset NR: 64       :P
+197 :Preset NR: 65       :P
+198 :Preset NR: 66       :P
+199 :Preset NR: 67       :P
+200 :Preset NR: 68       :P
+201 :Preset NR: 69       :P
+202 :Preset NR: 70       :P
+203 :Preset NR: 71       :P
+204 :Preset NR: 72       :P
+205 :Preset NR: 73       :P
+206 :Preset NR: 74       :P
+207 :Preset NR: 75       :P
+208 :Preset NR: 76       :P
+209 :Preset NR: 77       :P
+210 :Preset NR: 78       :P
+211 :Preset NR: 79       :P
+212 :Preset NR: 80       :P
+213 :Preset NR: 81       :P
+214 :Preset NR: 82       :P
+215 :Preset NR: 83       :P
+216 :Preset NR: 84       :P
+217 :Preset NR: 85       :P
+218 :Preset NR: 86       :P
+219 :Preset NR: 87       :P
+220 :Preset NR: 88       :P
+221 :Preset NR: 89       :P
+222 :Preset NR: 90       :P
+223 :Preset NR: 91       :P
+224 :Preset NR: 92       :P
+225 :Preset NR: 93       :P
+226 :Preset NR: 94       :P
+227 :Preset NR: 95       :P
+228 :Preset NR: 96       :P
+229 :Preset NR: 97       :P
+230 :Preset NR: 98       :P
+231 :Preset NR: 99       :P
+232 :Preset NR: 100      :P
+233 :Preset NR: 101      :P
+234 :Preset NR: 102      :P
+235 :Preset NR: 103      :P
+236 :Preset NR: 104      :P
+237 :Preset NR: 105      :P
+238 :Preset NR: 106      :P
+239 :Preset NR: 107      :P
+240 :Preset NR: 108      :P
+241 :Preset NR: 109      :P
+242 :Preset NR: 110      :P
+243 :Preset NR: 111      :P
+244 :Preset NR: 112      :P
+245 :Preset NR: 113      :P
+246 :Preset NR: 114      :P
+247 :Preset NR: 115      :P
+248 :Preset NR: 116      :P
+249 :Preset NR: 117      :P
+250 :Preset NR: 118      :P
+251 :Preset NR: 119      :P
+252 :Preset NR: 120      :P
+253 :Preset NR: 121      :P
+254 :Preset NR: 122      :P
+255 :Preset NR: 123      :P
+256 :Preset NR: 124      :P
+257 :Preset NR: 125      :P
+258 :Preset NR: 126      :P
+259 :Preset NR: 127      :P
+260 :Blue                :B
+261 :Preset NR: 0        :P
+262 :Preset NR: 1        :P
+263 :Preset NR: 2        :P
+264 :Preset NR: 3        :P
+265 :Preset NR: 4        :P
+266 :Preset NR: 5        :P
+267 :Preset NR: 6        :P
+268 :Preset NR: 7        :P
+269 :Preset NR: 8        :P
+270 :Preset NR: 9        :P
+271 :Preset NR: 10       :P
+272 :Preset NR: 11       :P
+273 :Preset NR: 12       :P
+274 :Preset NR: 13       :P
+275 :Preset NR: 14       :P
+276 :Preset NR: 15       :P
+277 :Preset NR: 16       :P
+278 :Preset NR: 17       :P
+279 :Preset NR: 18       :P
+280 :Preset NR: 19       :P
+281 :Preset NR: 20       :P
+282 :Preset NR: 21       :P
+283 :Preset NR: 22       :P
+284 :Preset NR: 23       :P
+285 :Preset NR: 24       :P
+286 :Preset NR: 25       :P
+287 :Preset NR: 26       :P
+288 :Preset NR: 27       :P
+289 :Preset NR: 28       :P
+290 :Preset NR: 29       :P
+291 :Preset NR: 30       :P
+292 :Preset NR: 31       :P
+293 :Preset NR: 32       :P
+294 :Preset NR: 33       :P
+295 :Preset NR: 34       :P
+296 :Preset NR: 35       :P
+297 :Preset NR: 36       :P
+298 :Preset NR: 37       :P
+299 :Preset NR: 38       :P
+300 :Preset NR: 39       :P
+301 :Preset NR: 40       :P
+302 :Preset NR: 41       :P
+303 :Preset NR: 42       :P
+304 :Preset NR: 43       :P
+305 :Preset NR: 44       :P
+306 :Preset NR: 45       :P
+307 :Preset NR: 46       :P
+308 :Preset NR: 47       :P
+309 :Preset NR: 48       :P
+310 :Preset NR: 49       :P
+311 :Preset NR: 50       :P
+312 :Preset NR: 51       :P
+313 :Preset NR: 52       :P
+314 :Preset NR: 53       :P
+315 :Preset NR: 54       :P
+316 :Preset NR: 55       :P
+317 :Preset NR: 56       :P
+318 :Preset NR: 57       :P
+319 :Preset NR: 58       :P
+320 :Preset NR: 59       :P
+321 :Preset NR: 60       :P
+322 :Preset NR: 61       :P
+323 :Preset NR: 62       :P
+324 :Preset NR: 63       :P
+325 :Preset NR: 64       :P
+326 :Preset NR: 65       :P
+327 :Preset NR: 66       :P
+328 :Preset NR: 67       :P
+329 :Preset NR: 68       :P
+330 :Preset NR: 69       :P
+331 :Preset NR: 70       :P
+332 :Preset NR: 71       :P
+333 :Preset NR: 72       :P
+334 :Preset NR: 73       :P
+335 :Preset NR: 74       :P
+336 :Preset NR: 75       :P
+337 :Preset NR: 76       :P
+338 :Preset NR: 77       :P
+339 :Preset NR: 78       :P
+340 :Preset NR: 79       :P
+341 :Preset NR: 80       :P
+342 :Preset NR: 81       :P
+343 :Preset NR: 82       :P
+344 :Preset NR: 83       :P
+345 :Preset NR: 84       :P
+346 :Preset NR: 85       :P
+347 :Preset NR: 86       :P
+348 :Preset NR: 87       :P
+349 :Preset NR: 88       :P
+350 :Preset NR: 89       :P
+351 :Preset NR: 90       :P
+352 :Preset NR: 91       :P
+353 :Preset NR: 92       :P
+354 :Preset NR: 93       :P
+355 :Preset NR: 94       :P
+356 :Preset NR: 95       :P
+357 :Preset NR: 96       :P
+358 :Preset NR: 97       :P
+359 :Preset NR: 98       :P
+360 :Preset NR: 99       :P
+361 :Preset NR: 100      :P
+362 :Preset NR: 101      :P
+363 :Preset NR: 102      :P
+364 :Preset NR: 103      :P
+365 :Preset NR: 104      :P
+366 :Preset NR: 105      :P
+367 :Preset NR: 106      :P
+368 :Preset NR: 107      :P
+369 :Preset NR: 108      :P
+370 :Preset NR: 109      :P
+371 :Preset NR: 110      :P
+372 :Preset NR: 111      :P
+373 :Preset NR: 112      :P
+374 :Preset NR: 113      :P
+375 :Preset NR: 114      :P
+376 :Preset NR: 115      :P
+377 :Preset NR: 116      :P
+378 :Preset NR: 117      :P
+379 :Preset NR: 118      :P
+380 :Preset NR: 119      :P
+381 :Preset NR: 120      :P
+382 :Preset NR: 121      :P
+383 :Preset NR: 122      :P
+384 :Preset NR: 123      :P
+385 :Preset NR: 124      :P
+386 :Preset NR: 125      :P
+387 :Preset NR: 126      :P
+388 :Preset NR: 127      :P
+389 :Yellow              :B
+390 :Preset NR: 0        :P
+391 :Preset NR: 1        :P
+392 :Preset NR: 2        :P
+393 :Preset NR: 3        :P
+394 :Preset NR: 4        :P
+395 :Preset NR: 5        :P
+396 :Preset NR: 6        :P
+397 :Preset NR: 7        :P
+398 :Preset NR: 8        :P
+399 :Preset NR: 9        :P
+400 :Preset NR: 10       :P
+401 :Preset NR: 11       :P
+402 :Preset NR: 12       :P
+403 :Preset NR: 13       :P
+404 :Preset NR: 14       :P
+405 :Preset NR: 15       :P
+406 :Preset NR: 16       :P
+407 :Preset NR: 17       :P
+408 :Preset NR: 18       :P
+409 :Preset NR: 19       :P
+410 :Preset NR: 20       :P
+411 :Preset NR: 21       :P
+412 :Preset NR: 22       :P
+413 :Preset NR: 23       :P
+414 :Preset NR: 24       :P
+415 :Preset NR: 25       :P
+416 :Preset NR: 26       :P
+417 :Preset NR: 27       :P
+418 :Preset NR: 28       :P
+419 :Preset NR: 29       :P
+420 :Preset NR: 30       :P
+421 :Preset NR: 31       :P
+422 :Preset NR: 32       :P
+423 :Preset NR: 33       :P
+424 :Preset NR: 34       :P
+425 :Preset NR: 35       :P
+426 :Preset NR: 36       :P
+427 :Preset NR: 37       :P
+428 :Preset NR: 38       :P
+429 :Preset NR: 39       :P
+430 :Preset NR: 40       :P
+431 :Preset NR: 41       :P
+432 :Preset NR: 42       :P
+433 :Preset NR: 43       :P
+434 :Preset NR: 44       :P
+435 :Preset NR: 45       :P
+436 :Preset NR: 46       :P
+437 :Preset NR: 47       :P
+438 :Preset NR: 48       :P
+439 :Preset NR: 49       :P
+440 :Preset NR: 50       :P
+441 :Preset NR: 51       :P
+442 :Preset NR: 52       :P
+443 :Preset NR: 53       :P
+444 :Preset NR: 54       :P
+445 :Preset NR: 55       :P
+446 :Preset NR: 56       :P
+447 :Preset NR: 57       :P
+448 :Preset NR: 58       :P
+449 :Preset NR: 59       :P
+450 :Preset NR: 60       :P
+451 :Preset NR: 61       :P
+452 :Preset NR: 62       :P
+453 :Preset NR: 63       :P
+454 :Preset NR: 64       :P
+455 :Preset NR: 65       :P
+456 :Preset NR: 66       :P
+457 :Preset NR: 67       :P
+458 :Preset NR: 68       :P
+459 :Preset NR: 69       :P
+460 :Preset NR: 70       :P
+461 :Preset NR: 71       :P
+462 :Preset NR: 72       :P
+463 :Preset NR: 73       :P
+464 :Preset NR: 74       :P
+465 :Preset NR: 75       :P
+466 :Preset NR: 76       :P
+467 :Preset NR: 77       :P
+468 :Preset NR: 78       :P
+469 :Preset NR: 79       :P
+470 :Preset NR: 80       :P
+471 :Preset NR: 81       :P
+472 :Preset NR: 82       :P
+473 :Preset NR: 83       :P
+474 :Preset NR: 84       :P
+475 :Preset NR: 85       :P
+476 :Preset NR: 86       :P
+477 :Preset NR: 87       :P
+478 :Preset NR: 88       :P
+479 :Preset NR: 89       :P
+480 :Preset NR: 90       :P
+481 :Preset NR: 91       :P
+482 :Preset NR: 92       :P
+483 :Preset NR: 93       :P
+484 :Preset NR: 94       :P
+485 :Preset NR: 95       :P
+486 :Preset NR: 96       :P
+487 :Preset NR: 97       :P
+488 :Preset NR: 98       :P
+489 :Preset NR: 99       :P
+490 :Preset NR: 100      :P
+491 :Preset NR: 101      :P
+492 :Preset NR: 102      :P
+493 :Preset NR: 103      :P
+494 :Preset NR: 104      :P
+495 :Preset NR: 105      :P
+496 :Preset NR: 106      :P
+497 :Preset NR: 107      :P
+498 :Preset NR: 108      :P
+499 :Preset NR: 109      :P
+500 :Preset NR: 110      :P
+501 :Preset NR: 111      :P
+502 :Preset NR: 112      :P
+503 :Preset NR: 113      :P
+504 :Preset NR: 114      :P
+505 :Preset NR: 115      :P
+506 :Preset NR: 116      :P
+507 :Preset NR: 117      :P
+508 :Preset NR: 118      :P
+509 :Preset NR: 119      :P
+510 :Preset NR: 120      :P
+511 :Preset NR: 121      :P
+512 :Preset NR: 122      :P
+513 :Preset NR: 123      :P
+514 :Preset NR: 124      :P
+515 :Preset NR: 125      :P
+516 :Preset NR: 126      :P
+517 :Preset NR: 127      :P
