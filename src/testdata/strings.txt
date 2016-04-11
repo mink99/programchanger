@@ -1,0 +1,1560 @@
+  1 :RED                 :
+  2 :	                   :
+  3 : Red 0 ...n Bass    :
+  4 : Red 1 ...ss 004    :
+  5 : Red 2 ...lo 001    :
+  6 : Red 3 ...D Bass    :
+  7 : Red 4 ... Nobby    :
+  8 : Red 5 ...s Down    :
+  9 : Red 6 ...essive    :
+ 10 : Red 7 : Taurus     :
+ 11 : Red 8 : Rubber     :
+ 12 : Red 9 ...iMogue    :
+ 13 : Red 10...izzler    :
+ 14 : Red 11...erheim    :
+ 15 : Red 12...orLead    :
+ 16 : Red 13  : Cars     :
+ 17 : Red 14...M-OBX1    :
+ 18 : Red 15  : Lucky    :
+ 19 : Red 16...ni 5th    :
+ 20 : Red 17  :          :
+ 21 : Red 18  :          :
+ 22 : Red 19  :          :
+ 23 : Red 20  :          :
+ 24 : Red 21  :          :
+ 25 : Red 22  :          :
+ 26 : Red 23  :          :
+ 27 : Red 24  :          :
+ 28 : Red 25  :          :
+ 29 : Red 26  :          :
+ 30 : Red 27  :          :
+ 31 : Red 28  :          :
+ 32 : Red 29  :          :
+ 33 : Red 30  :          :
+ 34 : Red 31  :          :
+ 35 : Red 32  :          :
+ 36 : Red 33  :          :
+ 37 : Red 34  :          :
+ 38 : Red 35  :          :
+ 39 : Red 36  :          :
+ 40 : Red 37  :          :
+ 41 : Red 38  :          :
+ 42 : Red 39  :          :
+ 43 : Red 40  :          :
+ 44 : Red 41  :          :
+ 45 : Red 42  :          :
+ 46 : Red 43  :          :
+ 47 : Red 44  :          :
+ 48 : Red 45  :          :
+ 49 : Red 46  :          :
+ 50 : Red 47  :          :
+ 51 : Red 48  :          :
+ 52 : Red 49  :          :
+ 53 : Red 50  :          :
+ 54 : Red 51  :          :
+ 55 : Red 52  :          :
+ 56 : Red 53  :          :
+ 57 : Red 54  :          :
+ 58 : Red 55  :          :
+ 59 : Red 56  :          :
+ 60 : Red 57  :          :
+ 61 : Red 58  :          :
+ 62 : Red 59  :          :
+ 63 : Red 60  :          :
+ 64 : Red 61  :          :
+ 65 : Red 62  :          :
+ 66 : Red 63  :          :
+ 67 : Red 64  :          :
+ 68 : Red 65  :          :
+ 69 : Red 66  :          :
+ 70 : Red 67  :          :
+ 71 : Red 68  :          :
+ 72 : Red 69  :          :
+ 73 : Red 70  :          :
+ 74 : Red 71  :          :
+ 75 : Red 72  :          :
+ 76 : Red 73  :          :
+ 77 : Red 74  :          :
+ 78 : Red 75  :          :
+ 79 : Red 76  :          :
+ 80 : Red 77  :          :
+ 81 : Red 78  :          :
+ 82 : Red 79  :          :
+ 83 : Red 80  :          :
+ 84 : Red 81  :          :
+ 85 : Red 82  :          :
+ 86 : Red 83  :          :
+ 87 : Red 84  :          :
+ 88 : Red 85  :          :
+ 89 : Red 86  :          :
+ 90 : Red 87  :          :
+ 91 : Red 88  :          :
+ 92 : Red 89  :          :
+ 93 : Red 90  :          :
+ 94 : Red 91  :          :
+ 95 : Red 92  :          :
+ 96 : Red 93  :          :
+ 97 : Red 94  :          :
+ 98 : Red 95  :          :
+ 99 : Red 96  :          :
+100 : Red 97  :          :
+101 : Red 98  :          :
+102 : Red 99  :          :
+103 : Red 100  :         :
+104 : Red 101  :         :
+105 : Red 102  :         :
+106 : Red 103  :         :
+107 : Red 104  :         :
+108 : Red 105  :         :
+109 : Red 106  :         :
+110 : Red 107  :         :
+111 : Red 108  :         :
+112 : Red 109  :         :
+113 : Red 110  :         :
+114 : Red 111  :         :
+115 : Red 112  :         :
+116 : Red 113  :         :
+117 : Red 114  :         :
+118 : Red 115  :         :
+119 : Red 116  :         :
+120 : Red 117  :         :
+121 : Red 118  :         :
+122 : Red 119  :         :
+123 : Red 120  :         :
+124 : Red 121  :         :
+125 : Red 122  :         :
+126 : Red 123  :         :
+127 : Red 124  :         :
+128 : Red 125  :         :
+129 : Red 126  :         :
+130 : Red 127  :         :
+131 :GREEN               :
+132 :	                   :
+133 : Preset NR: 0       :
+134 : Preset NR: 1       :
+135 : Preset NR: 2       :
+136 : Preset NR: 3       :
+137 : Preset NR: 4       :
+138 : Preset NR: 5       :
+139 : Preset NR: 6       :
+140 : Preset NR: 7       :
+141 : Preset NR: 8       :
+142 : Preset NR: 9       :
+143 : Preset NR: 10      :
+144 : Preset NR: 11      :
+145 : Preset NR: 12      :
+146 : Preset NR: 13      :
+147 : Preset NR: 14      :
+148 : Preset NR: 15      :
+149 : Preset NR: 16      :
+150 : Preset NR: 17      :
+151 : Preset NR: 18      :
+152 : Preset NR: 19      :
+153 : Preset NR: 20      :
+154 : Preset NR: 21      :
+155 : Preset NR: 22      :
+156 : Preset NR: 23      :
+157 : Preset NR: 24      :
+158 : Preset NR: 25      :
+159 : Preset NR: 26      :
+160 : Preset NR: 27      :
+161 : Preset NR: 28      :
+162 : Preset NR: 29      :
+163 : Preset NR: 30      :
+164 : Preset NR: 31      :
+165 : Preset NR: 32      :
+166 : Preset NR: 33      :
+167 : Preset NR: 34      :
+168 : Preset NR: 35      :
+169 : Preset NR: 36      :
+170 : Preset NR: 37      :
+171 : Preset NR: 38      :
+172 : Preset NR: 39      :
+173 : Preset NR: 40      :
+174 : Preset NR: 41      :
+175 : Preset NR: 42      :
+176 : Preset NR: 43      :
+177 : Preset NR: 44      :
+178 : Preset NR: 45      :
+179 : Preset NR: 46      :
+180 : Preset NR: 47      :
+181 : Preset NR: 48      :
+182 : Preset NR: 49      :
+183 : Preset NR: 50      :
+184 : Preset NR: 51      :
+185 : Preset NR: 52      :
+186 : Preset NR: 53      :
+187 : Preset NR: 54      :
+188 : Preset NR: 55      :
+189 : Preset NR: 56      :
+190 : Preset NR: 57      :
+191 : Preset NR: 58      :
+192 : Preset NR: 59      :
+193 : Preset NR: 60      :
+194 : Preset NR: 61      :
+195 : Preset NR: 62      :
+196 : Preset NR: 63      :
+197 : Preset NR: 64      :
+198 : Preset NR: 65      :
+199 : Preset NR: 66      :
+200 : Preset NR: 67      :
+201 : Preset NR: 68      :
+202 : Preset NR: 69      :
+203 : Preset NR: 70      :
+204 : Preset NR: 71      :
+205 : Preset NR: 72      :
+206 : Preset NR: 73      :
+207 : Preset NR: 74      :
+208 : Preset NR: 75      :
+209 : Preset NR: 76      :
+210 : Preset NR: 77      :
+211 : Preset NR: 78      :
+212 : Preset NR: 79      :
+213 : Preset NR: 80      :
+214 : Preset NR: 81      :
+215 : Preset NR: 82      :
+216 : Preset NR: 83      :
+217 : Preset NR: 84      :
+218 : Preset NR: 85      :
+219 : Preset NR: 86      :
+220 : Preset NR: 87      :
+221 : Preset NR: 88      :
+222 : Preset NR: 89      :
+223 : Preset NR: 90      :
+224 : Preset NR: 91      :
+225 : Preset NR: 92      :
+226 : Preset NR: 93      :
+227 : Preset NR: 94      :
+228 : Preset NR: 95      :
+229 : Preset NR: 96      :
+230 : Preset NR: 97      :
+231 : Preset NR: 98      :
+232 : Preset NR: 99      :
+233 : Preset NR: 100     :
+234 : Preset NR: 101     :
+235 : Preset NR: 102     :
+236 : Preset NR: 103     :
+237 : Preset NR: 104     :
+238 : Preset NR: 105     :
+239 : Preset NR: 106     :
+240 : Preset NR: 107     :
+241 : Preset NR: 108     :
+242 : Preset NR: 109     :
+243 : Preset NR: 110     :
+244 : Preset NR: 111     :
+245 : Preset NR: 112     :
+246 : Preset NR: 113     :
+247 : Preset NR: 114     :
+248 : Preset NR: 115     :
+249 : Preset NR: 116     :
+250 : Preset NR: 117     :
+251 : Preset NR: 118     :
+252 : Preset NR: 119     :
+253 : Preset NR: 120     :
+254 : Preset NR: 121     :
+255 : Preset NR: 122     :
+256 : Preset NR: 123     :
+257 : Preset NR: 124     :
+258 : Preset NR: 125     :
+259 : Preset NR: 126     :
+260 : Preset NR: 127     :
+261 :Blue                :
+262 :	                   :
+263 : Preset NR: 0       :
+264 : Preset NR: 1       :
+265 : Preset NR: 2       :
+266 : Preset NR: 3       :
+267 : Preset NR: 4       :
+268 : Preset NR: 5       :
+269 : Preset NR: 6       :
+270 : Preset NR: 7       :
+271 : Preset NR: 8       :
+272 : Preset NR: 9       :
+273 : Preset NR: 10      :
+274 : Preset NR: 11      :
+275 : Preset NR: 12      :
+276 : Preset NR: 13      :
+277 : Preset NR: 14      :
+278 : Preset NR: 15      :
+279 : Preset NR: 16      :
+280 : Preset NR: 17      :
+281 : Preset NR: 18      :
+282 : Preset NR: 19      :
+283 : Preset NR: 20      :
+284 : Preset NR: 21      :
+285 : Preset NR: 22      :
+286 : Preset NR: 23      :
+287 : Preset NR: 24      :
+288 : Preset NR: 25      :
+289 : Preset NR: 26      :
+290 : Preset NR: 27      :
+291 : Preset NR: 28      :
+292 : Preset NR: 29      :
+293 : Preset NR: 30      :
+294 : Preset NR: 31      :
+295 : Preset NR: 32      :
+296 : Preset NR: 33      :
+297 : Preset NR: 34      :
+298 : Preset NR: 35      :
+299 : Preset NR: 36      :
+300 : Preset NR: 37      :
+301 : Preset NR: 38      :
+302 : Preset NR: 39      :
+303 : Preset NR: 40      :
+304 : Preset NR: 41      :
+305 : Preset NR: 42      :
+306 : Preset NR: 43      :
+307 : Preset NR: 44      :
+308 : Preset NR: 45      :
+309 : Preset NR: 46      :
+310 : Preset NR: 47      :
+311 : Preset NR: 48      :
+312 : Preset NR: 49      :
+313 : Preset NR: 50      :
+314 : Preset NR: 51      :
+315 : Preset NR: 52      :
+316 : Preset NR: 53      :
+317 : Preset NR: 54      :
+318 : Preset NR: 55      :
+319 : Preset NR: 56      :
+320 : Preset NR: 57      :
+321 : Preset NR: 58      :
+322 : Preset NR: 59      :
+323 : Preset NR: 60      :
+324 : Preset NR: 61      :
+325 : Preset NR: 62      :
+326 : Preset NR: 63      :
+327 : Preset NR: 64      :
+328 : Preset NR: 65      :
+329 : Preset NR: 66      :
+330 : Preset NR: 67      :
+331 : Preset NR: 68      :
+332 : Preset NR: 69      :
+333 : Preset NR: 70      :
+334 : Preset NR: 71      :
+335 : Preset NR: 72      :
+336 : Preset NR: 73      :
+337 : Preset NR: 74      :
+338 : Preset NR: 75      :
+339 : Preset NR: 76      :
+340 : Preset NR: 77      :
+341 : Preset NR: 78      :
+342 : Preset NR: 79      :
+343 : Preset NR: 80      :
+344 : Preset NR: 81      :
+345 : Preset NR: 82      :
+346 : Preset NR: 83      :
+347 : Preset NR: 84      :
+348 : Preset NR: 85      :
+349 : Preset NR: 86      :
+350 : Preset NR: 87      :
+351 : Preset NR: 88      :
+352 : Preset NR: 89      :
+353 : Preset NR: 90      :
+354 : Preset NR: 91      :
+355 : Preset NR: 92      :
+356 : Preset NR: 93      :
+357 : Preset NR: 94      :
+358 : Preset NR: 95      :
+359 : Preset NR: 96      :
+360 : Preset NR: 97      :
+361 : Preset NR: 98      :
+362 : Preset NR: 99      :
+363 : Preset NR: 100     :
+364 : Preset NR: 101     :
+365 : Preset NR: 102     :
+366 : Preset NR: 103     :
+367 : Preset NR: 104     :
+368 : Preset NR: 105     :
+369 : Preset NR: 106     :
+370 : Preset NR: 107     :
+371 : Preset NR: 108     :
+372 : Preset NR: 109     :
+373 : Preset NR: 110     :
+374 : Preset NR: 111     :
+375 : Preset NR: 112     :
+376 : Preset NR: 113     :
+377 : Preset NR: 114     :
+378 : Preset NR: 115     :
+379 : Preset NR: 116     :
+380 : Preset NR: 117     :
+381 : Preset NR: 118     :
+382 : Preset NR: 119     :
+383 : Preset NR: 120     :
+384 : Preset NR: 121     :
+385 : Preset NR: 122     :
+386 : Preset NR: 123     :
+387 : Preset NR: 124     :
+388 : Preset NR: 125     :
+389 : Preset NR: 126     :
+390 : Preset NR: 127     :
+391 :Yellow              :
+392 :	                   :
+393 : Preset NR: 0       :
+394 : Preset NR: 1       :
+395 : Preset NR: 2       :
+396 : Preset NR: 3       :
+397 : Preset NR: 4       :
+398 : Preset NR: 5       :
+399 : Preset NR: 6       :
+400 : Preset NR: 7       :
+401 : Preset NR: 8       :
+402 : Preset NR: 9       :
+403 : Preset NR: 10      :
+404 : Preset NR: 11      :
+405 : Preset NR: 12      :
+406 : Preset NR: 13      :
+407 : Preset NR: 14      :
+408 : Preset NR: 15      :
+409 : Preset NR: 16      :
+410 : Preset NR: 17      :
+411 : Preset NR: 18      :
+412 : Preset NR: 19      :
+413 : Preset NR: 20      :
+414 : Preset NR: 21      :
+415 : Preset NR: 22      :
+416 : Preset NR: 23      :
+417 : Preset NR: 24      :
+418 : Preset NR: 25      :
+419 : Preset NR: 26      :
+420 : Preset NR: 27      :
+421 : Preset NR: 28      :
+422 : Preset NR: 29      :
+423 : Preset NR: 30      :
+424 : Preset NR: 31      :
+425 : Preset NR: 32      :
+426 : Preset NR: 33      :
+427 : Preset NR: 34      :
+428 : Preset NR: 35      :
+429 : Preset NR: 36      :
+430 : Preset NR: 37      :
+431 : Preset NR: 38      :
+432 : Preset NR: 39      :
+433 : Preset NR: 40      :
+434 : Preset NR: 41      :
+435 : Preset NR: 42      :
+436 : Preset NR: 43      :
+437 : Preset NR: 44      :
+438 : Preset NR: 45      :
+439 : Preset NR: 46      :
+440 : Preset NR: 47      :
+441 : Preset NR: 48      :
+442 : Preset NR: 49      :
+443 : Preset NR: 50      :
+444 : Preset NR: 51      :
+445 : Preset NR: 52      :
+446 : Preset NR: 53      :
+447 : Preset NR: 54      :
+448 : Preset NR: 55      :
+449 : Preset NR: 56      :
+450 : Preset NR: 57      :
+451 : Preset NR: 58      :
+452 : Preset NR: 59      :
+453 : Preset NR: 60      :
+454 : Preset NR: 61      :
+455 : Preset NR: 62      :
+456 : Preset NR: 63      :
+457 : Preset NR: 64      :
+458 : Preset NR: 65      :
+459 : Preset NR: 66      :
+460 : Preset NR: 67      :
+461 : Preset NR: 68      :
+462 : Preset NR: 69      :
+463 : Preset NR: 70      :
+464 : Preset NR: 71      :
+465 : Preset NR: 72      :
+466 : Preset NR: 73      :
+467 : Preset NR: 74      :
+468 : Preset NR: 75      :
+469 : Preset NR: 76      :
+470 : Preset NR: 77      :
+471 : Preset NR: 78      :
+472 : Preset NR: 79      :
+473 : Preset NR: 80      :
+474 : Preset NR: 81      :
+475 : Preset NR: 82      :
+476 : Preset NR: 83      :
+477 : Preset NR: 84      :
+478 : Preset NR: 85      :
+479 : Preset NR: 86      :
+480 : Preset NR: 87      :
+481 : Preset NR: 88      :
+482 : Preset NR: 89      :
+483 : Preset NR: 90      :
+484 : Preset NR: 91      :
+485 : Preset NR: 92      :
+486 : Preset NR: 93      :
+487 : Preset NR: 94      :
+488 : Preset NR: 95      :
+489 : Preset NR: 96      :
+490 : Preset NR: 97      :
+491 : Preset NR: 98      :
+492 : Preset NR: 99      :
+493 : Preset NR: 100     :
+494 : Preset NR: 101     :
+495 : Preset NR: 102     :
+496 : Preset NR: 103     :
+497 : Preset NR: 104     :
+498 : Preset NR: 105     :
+499 : Preset NR: 106     :
+500 : Preset NR: 107     :
+501 : Preset NR: 108     :
+502 : Preset NR: 109     :
+503 : Preset NR: 110     :
+504 : Preset NR: 111     :
+505 : Preset NR: 112     :
+506 : Preset NR: 113     :
+507 : Preset NR: 114     :
+508 : Preset NR: 115     :
+509 : Preset NR: 116     :
+510 : Preset NR: 117     :
+511 : Preset NR: 118     :
+512 : Preset NR: 119     :
+513 : Preset NR: 120     :
+514 : Preset NR: 121     :
+515 : Preset NR: 122     :
+516 : Preset NR: 123     :
+517 : Preset NR: 124     :
+518 : Preset NR: 125     :
+519 : Preset NR: 126     :
+520 : Preset NR: 127     :
+  1 :RED                 :
+  2 :	                   :
+  3 : Red 0 ...n Bass    :
+  4 : Red 1 ...ss 004    :
+  5 : Red 2 ...lo 001    :
+  6 : Red 3 ...D Bass    :
+  7 : Red 4 ... Nobby    :
+  8 : Red 5 ...s Down    :
+  9 : Red 6 ...essive    :
+ 10 : Red 7 : Taurus     :
+ 11 : Red 8 : Rubber     :
+ 12 : Red 9 ...iMogue    :
+ 13 : Red 10...izzler    :
+ 14 : Red 11...erheim    :
+ 15 : Red 12...orLead    :
+ 16 : Red 13  : Cars     :
+ 17 : Red 14...M-OBX1    :
+ 18 : Red 15  : Lucky    :
+ 19 : Red 16...ni 5th    :
+ 20 : Red 17  :          :
+ 21 : Red 18  :          :
+ 22 : Red 19  :          :
+ 23 : Red 20  :          :
+ 24 : Red 21  :          :
+ 25 : Red 22  :          :
+ 26 : Red 23  :          :
+ 27 : Red 24  :          :
+ 28 : Red 25  :          :
+ 29 : Red 26  :          :
+ 30 : Red 27  :          :
+ 31 : Red 28  :          :
+ 32 : Red 29  :          :
+ 33 : Red 30  :          :
+ 34 : Red 31  :          :
+ 35 : Red 32  :          :
+ 36 : Red 33  :          :
+ 37 : Red 34  :          :
+ 38 : Red 35  :          :
+ 39 : Red 36  :          :
+ 40 : Red 37  :          :
+ 41 : Red 38  :          :
+ 42 : Red 39  :          :
+ 43 : Red 40  :          :
+ 44 : Red 41  :          :
+ 45 : Red 42  :          :
+ 46 : Red 43  :          :
+ 47 : Red 44  :          :
+ 48 : Red 45  :          :
+ 49 : Red 46  :          :
+ 50 : Red 47  :          :
+ 51 : Red 48  :          :
+ 52 : Red 49  :          :
+ 53 : Red 50  :          :
+ 54 : Red 51  :          :
+ 55 : Red 52  :          :
+ 56 : Red 53  :          :
+ 57 : Red 54  :          :
+ 58 : Red 55  :          :
+ 59 : Red 56  :          :
+ 60 : Red 57  :          :
+ 61 : Red 58  :          :
+ 62 : Red 59  :          :
+ 63 : Red 60  :          :
+ 64 : Red 61  :          :
+ 65 : Red 62  :          :
+ 66 : Red 63  :          :
+ 67 : Red 64  :          :
+ 68 : Red 65  :          :
+ 69 : Red 66  :          :
+ 70 : Red 67  :          :
+ 71 : Red 68  :          :
+ 72 : Red 69  :          :
+ 73 : Red 70  :          :
+ 74 : Red 71  :          :
+ 75 : Red 72  :          :
+ 76 : Red 73  :          :
+ 77 : Red 74  :          :
+ 78 : Red 75  :          :
+ 79 : Red 76  :          :
+ 80 : Red 77  :          :
+ 81 : Red 78  :          :
+ 82 : Red 79  :          :
+ 83 : Red 80  :          :
+ 84 : Red 81  :          :
+ 85 : Red 82  :          :
+ 86 : Red 83  :          :
+ 87 : Red 84  :          :
+ 88 : Red 85  :          :
+ 89 : Red 86  :          :
+ 90 : Red 87  :          :
+ 91 : Red 88  :          :
+ 92 : Red 89  :          :
+ 93 : Red 90  :          :
+ 94 : Red 91  :          :
+ 95 : Red 92  :          :
+ 96 : Red 93  :          :
+ 97 : Red 94  :          :
+ 98 : Red 95  :          :
+ 99 : Red 96  :          :
+100 : Red 97  :          :
+101 : Red 98  :          :
+102 : Red 99  :          :
+103 : Red 100  :         :
+104 : Red 101  :         :
+105 : Red 102  :         :
+106 : Red 103  :         :
+107 : Red 104  :         :
+108 : Red 105  :         :
+109 : Red 106  :         :
+110 : Red 107  :         :
+111 : Red 108  :         :
+112 : Red 109  :         :
+113 : Red 110  :         :
+114 : Red 111  :         :
+115 : Red 112  :         :
+116 : Red 113  :         :
+117 : Red 114  :         :
+118 : Red 115  :         :
+119 : Red 116  :         :
+120 : Red 117  :         :
+121 : Red 118  :         :
+122 : Red 119  :         :
+123 : Red 120  :         :
+124 : Red 121  :         :
+125 : Red 122  :         :
+126 : Red 123  :         :
+127 : Red 124  :         :
+128 : Red 125  :         :
+129 : Red 126  :         :
+130 : Red 127  :         :
+131 :GREEN               :
+132 :	                   :
+133 : Preset NR: 0       :
+134 : Preset NR: 1       :
+135 : Preset NR: 2       :
+136 : Preset NR: 3       :
+137 : Preset NR: 4       :
+138 : Preset NR: 5       :
+139 : Preset NR: 6       :
+140 : Preset NR: 7       :
+141 : Preset NR: 8       :
+142 : Preset NR: 9       :
+143 : Preset NR: 10      :
+144 : Preset NR: 11      :
+145 : Preset NR: 12      :
+146 : Preset NR: 13      :
+147 : Preset NR: 14      :
+148 : Preset NR: 15      :
+149 : Preset NR: 16      :
+150 : Preset NR: 17      :
+151 : Preset NR: 18      :
+152 : Preset NR: 19      :
+153 : Preset NR: 20      :
+154 : Preset NR: 21      :
+155 : Preset NR: 22      :
+156 : Preset NR: 23      :
+157 : Preset NR: 24      :
+158 : Preset NR: 25      :
+159 : Preset NR: 26      :
+160 : Preset NR: 27      :
+161 : Preset NR: 28      :
+162 : Preset NR: 29      :
+163 : Preset NR: 30      :
+164 : Preset NR: 31      :
+165 : Preset NR: 32      :
+166 : Preset NR: 33      :
+167 : Preset NR: 34      :
+168 : Preset NR: 35      :
+169 : Preset NR: 36      :
+170 : Preset NR: 37      :
+171 : Preset NR: 38      :
+172 : Preset NR: 39      :
+173 : Preset NR: 40      :
+174 : Preset NR: 41      :
+175 : Preset NR: 42      :
+176 : Preset NR: 43      :
+177 : Preset NR: 44      :
+178 : Preset NR: 45      :
+179 : Preset NR: 46      :
+180 : Preset NR: 47      :
+181 : Preset NR: 48      :
+182 : Preset NR: 49      :
+183 : Preset NR: 50      :
+184 : Preset NR: 51      :
+185 : Preset NR: 52      :
+186 : Preset NR: 53      :
+187 : Preset NR: 54      :
+188 : Preset NR: 55      :
+189 : Preset NR: 56      :
+190 : Preset NR: 57      :
+191 : Preset NR: 58      :
+192 : Preset NR: 59      :
+193 : Preset NR: 60      :
+194 : Preset NR: 61      :
+195 : Preset NR: 62      :
+196 : Preset NR: 63      :
+197 : Preset NR: 64      :
+198 : Preset NR: 65      :
+199 : Preset NR: 66      :
+200 : Preset NR: 67      :
+201 : Preset NR: 68      :
+202 : Preset NR: 69      :
+203 : Preset NR: 70      :
+204 : Preset NR: 71      :
+205 : Preset NR: 72      :
+206 : Preset NR: 73      :
+207 : Preset NR: 74      :
+208 : Preset NR: 75      :
+209 : Preset NR: 76      :
+210 : Preset NR: 77      :
+211 : Preset NR: 78      :
+212 : Preset NR: 79      :
+213 : Preset NR: 80      :
+214 : Preset NR: 81      :
+215 : Preset NR: 82      :
+216 : Preset NR: 83      :
+217 : Preset NR: 84      :
+218 : Preset NR: 85      :
+219 : Preset NR: 86      :
+220 : Preset NR: 87      :
+221 : Preset NR: 88      :
+222 : Preset NR: 89      :
+223 : Preset NR: 90      :
+224 : Preset NR: 91      :
+225 : Preset NR: 92      :
+226 : Preset NR: 93      :
+227 : Preset NR: 94      :
+228 : Preset NR: 95      :
+229 : Preset NR: 96      :
+230 : Preset NR: 97      :
+231 : Preset NR: 98      :
+232 : Preset NR: 99      :
+233 : Preset NR: 100     :
+234 : Preset NR: 101     :
+235 : Preset NR: 102     :
+236 : Preset NR: 103     :
+237 : Preset NR: 104     :
+238 : Preset NR: 105     :
+239 : Preset NR: 106     :
+240 : Preset NR: 107     :
+241 : Preset NR: 108     :
+242 : Preset NR: 109     :
+243 : Preset NR: 110     :
+244 : Preset NR: 111     :
+245 : Preset NR: 112     :
+246 : Preset NR: 113     :
+247 : Preset NR: 114     :
+248 : Preset NR: 115     :
+249 : Preset NR: 116     :
+250 : Preset NR: 117     :
+251 : Preset NR: 118     :
+252 : Preset NR: 119     :
+253 : Preset NR: 120     :
+254 : Preset NR: 121     :
+255 : Preset NR: 122     :
+256 : Preset NR: 123     :
+257 : Preset NR: 124     :
+258 : Preset NR: 125     :
+259 : Preset NR: 126     :
+260 : Preset NR: 127     :
+261 :Blue                :
+262 :	                   :
+263 : Preset NR: 0       :
+264 : Preset NR: 1       :
+265 : Preset NR: 2       :
+266 : Preset NR: 3       :
+267 : Preset NR: 4       :
+268 : Preset NR: 5       :
+269 : Preset NR: 6       :
+270 : Preset NR: 7       :
+271 : Preset NR: 8       :
+272 : Preset NR: 9       :
+273 : Preset NR: 10      :
+274 : Preset NR: 11      :
+275 : Preset NR: 12      :
+276 : Preset NR: 13      :
+277 : Preset NR: 14      :
+278 : Preset NR: 15      :
+279 : Preset NR: 16      :
+280 : Preset NR: 17      :
+281 : Preset NR: 18      :
+282 : Preset NR: 19      :
+283 : Preset NR: 20      :
+284 : Preset NR: 21      :
+285 : Preset NR: 22      :
+286 : Preset NR: 23      :
+287 : Preset NR: 24      :
+288 : Preset NR: 25      :
+289 : Preset NR: 26      :
+290 : Preset NR: 27      :
+291 : Preset NR: 28      :
+292 : Preset NR: 29      :
+293 : Preset NR: 30      :
+294 : Preset NR: 31      :
+295 : Preset NR: 32      :
+296 : Preset NR: 33      :
+297 : Preset NR: 34      :
+298 : Preset NR: 35      :
+299 : Preset NR: 36      :
+300 : Preset NR: 37      :
+301 : Preset NR: 38      :
+302 : Preset NR: 39      :
+303 : Preset NR: 40      :
+304 : Preset NR: 41      :
+305 : Preset NR: 42      :
+306 : Preset NR: 43      :
+307 : Preset NR: 44      :
+308 : Preset NR: 45      :
+309 : Preset NR: 46      :
+310 : Preset NR: 47      :
+311 : Preset NR: 48      :
+312 : Preset NR: 49      :
+313 : Preset NR: 50      :
+314 : Preset NR: 51      :
+315 : Preset NR: 52      :
+316 : Preset NR: 53      :
+317 : Preset NR: 54      :
+318 : Preset NR: 55      :
+319 : Preset NR: 56      :
+320 : Preset NR: 57      :
+321 : Preset NR: 58      :
+322 : Preset NR: 59      :
+323 : Preset NR: 60      :
+324 : Preset NR: 61      :
+325 : Preset NR: 62      :
+326 : Preset NR: 63      :
+327 : Preset NR: 64      :
+328 : Preset NR: 65      :
+329 : Preset NR: 66      :
+330 : Preset NR: 67      :
+331 : Preset NR: 68      :
+332 : Preset NR: 69      :
+333 : Preset NR: 70      :
+334 : Preset NR: 71      :
+335 : Preset NR: 72      :
+336 : Preset NR: 73      :
+337 : Preset NR: 74      :
+338 : Preset NR: 75      :
+339 : Preset NR: 76      :
+340 : Preset NR: 77      :
+341 : Preset NR: 78      :
+342 : Preset NR: 79      :
+343 : Preset NR: 80      :
+344 : Preset NR: 81      :
+345 : Preset NR: 82      :
+346 : Preset NR: 83      :
+347 : Preset NR: 84      :
+348 : Preset NR: 85      :
+349 : Preset NR: 86      :
+350 : Preset NR: 87      :
+351 : Preset NR: 88      :
+352 : Preset NR: 89      :
+353 : Preset NR: 90      :
+354 : Preset NR: 91      :
+355 : Preset NR: 92      :
+356 : Preset NR: 93      :
+357 : Preset NR: 94      :
+358 : Preset NR: 95      :
+359 : Preset NR: 96      :
+360 : Preset NR: 97      :
+361 : Preset NR: 98      :
+362 : Preset NR: 99      :
+363 : Preset NR: 100     :
+364 : Preset NR: 101     :
+365 : Preset NR: 102     :
+366 : Preset NR: 103     :
+367 : Preset NR: 104     :
+368 : Preset NR: 105     :
+369 : Preset NR: 106     :
+370 : Preset NR: 107     :
+371 : Preset NR: 108     :
+372 : Preset NR: 109     :
+373 : Preset NR: 110     :
+374 : Preset NR: 111     :
+375 : Preset NR: 112     :
+376 : Preset NR: 113     :
+377 : Preset NR: 114     :
+378 : Preset NR: 115     :
+379 : Preset NR: 116     :
+380 : Preset NR: 117     :
+381 : Preset NR: 118     :
+382 : Preset NR: 119     :
+383 : Preset NR: 120     :
+384 : Preset NR: 121     :
+385 : Preset NR: 122     :
+386 : Preset NR: 123     :
+387 : Preset NR: 124     :
+388 : Preset NR: 125     :
+389 : Preset NR: 126     :
+390 : Preset NR: 127     :
+391 :Yellow              :
+392 :	                   :
+393 : Preset NR: 0       :
+394 : Preset NR: 1       :
+395 : Preset NR: 2       :
+396 : Preset NR: 3       :
+397 : Preset NR: 4       :
+398 : Preset NR: 5       :
+399 : Preset NR: 6       :
+400 : Preset NR: 7       :
+401 : Preset NR: 8       :
+402 : Preset NR: 9       :
+403 : Preset NR: 10      :
+404 : Preset NR: 11      :
+405 : Preset NR: 12      :
+406 : Preset NR: 13      :
+407 : Preset NR: 14      :
+408 : Preset NR: 15      :
+409 : Preset NR: 16      :
+410 : Preset NR: 17      :
+411 : Preset NR: 18      :
+412 : Preset NR: 19      :
+413 : Preset NR: 20      :
+414 : Preset NR: 21      :
+415 : Preset NR: 22      :
+416 : Preset NR: 23      :
+417 : Preset NR: 24      :
+418 : Preset NR: 25      :
+419 : Preset NR: 26      :
+420 : Preset NR: 27      :
+421 : Preset NR: 28      :
+422 : Preset NR: 29      :
+423 : Preset NR: 30      :
+424 : Preset NR: 31      :
+425 : Preset NR: 32      :
+426 : Preset NR: 33      :
+427 : Preset NR: 34      :
+428 : Preset NR: 35      :
+429 : Preset NR: 36      :
+430 : Preset NR: 37      :
+431 : Preset NR: 38      :
+432 : Preset NR: 39      :
+433 : Preset NR: 40      :
+434 : Preset NR: 41      :
+435 : Preset NR: 42      :
+436 : Preset NR: 43      :
+437 : Preset NR: 44      :
+438 : Preset NR: 45      :
+439 : Preset NR: 46      :
+440 : Preset NR: 47      :
+441 : Preset NR: 48      :
+442 : Preset NR: 49      :
+443 : Preset NR: 50      :
+444 : Preset NR: 51      :
+445 : Preset NR: 52      :
+446 : Preset NR: 53      :
+447 : Preset NR: 54      :
+448 : Preset NR: 55      :
+449 : Preset NR: 56      :
+450 : Preset NR: 57      :
+451 : Preset NR: 58      :
+452 : Preset NR: 59      :
+453 : Preset NR: 60      :
+454 : Preset NR: 61      :
+455 : Preset NR: 62      :
+456 : Preset NR: 63      :
+457 : Preset NR: 64      :
+458 : Preset NR: 65      :
+459 : Preset NR: 66      :
+460 : Preset NR: 67      :
+461 : Preset NR: 68      :
+462 : Preset NR: 69      :
+463 : Preset NR: 70      :
+464 : Preset NR: 71      :
+465 : Preset NR: 72      :
+466 : Preset NR: 73      :
+467 : Preset NR: 74      :
+468 : Preset NR: 75      :
+469 : Preset NR: 76      :
+470 : Preset NR: 77      :
+471 : Preset NR: 78      :
+472 : Preset NR: 79      :
+473 : Preset NR: 80      :
+474 : Preset NR: 81      :
+475 : Preset NR: 82      :
+476 : Preset NR: 83      :
+477 : Preset NR: 84      :
+478 : Preset NR: 85      :
+479 : Preset NR: 86      :
+480 : Preset NR: 87      :
+481 : Preset NR: 88      :
+482 : Preset NR: 89      :
+483 : Preset NR: 90      :
+484 : Preset NR: 91      :
+485 : Preset NR: 92      :
+486 : Preset NR: 93      :
+487 : Preset NR: 94      :
+488 : Preset NR: 95      :
+489 : Preset NR: 96      :
+490 : Preset NR: 97      :
+491 : Preset NR: 98      :
+492 : Preset NR: 99      :
+493 : Preset NR: 100     :
+494 : Preset NR: 101     :
+495 : Preset NR: 102     :
+496 : Preset NR: 103     :
+497 : Preset NR: 104     :
+498 : Preset NR: 105     :
+499 : Preset NR: 106     :
+500 : Preset NR: 107     :
+501 : Preset NR: 108     :
+502 : Preset NR: 109     :
+503 : Preset NR: 110     :
+504 : Preset NR: 111     :
+505 : Preset NR: 112     :
+506 : Preset NR: 113     :
+507 : Preset NR: 114     :
+508 : Preset NR: 115     :
+509 : Preset NR: 116     :
+510 : Preset NR: 117     :
+511 : Preset NR: 118     :
+512 : Preset NR: 119     :
+513 : Preset NR: 120     :
+514 : Preset NR: 121     :
+515 : Preset NR: 122     :
+516 : Preset NR: 123     :
+517 : Preset NR: 124     :
+518 : Preset NR: 125     :
+519 : Preset NR: 126     :
+520 : Preset NR: 127     :
+  1 :RED                 :
+  2 :	                   :
+  3 : Red 0 ...n Bass    :
+  4 : Red 1 ...ss 004    :
+  5 : Red 2 ...lo 001    :
+  6 : Red 3 ...D Bass    :
+  7 : Red 4 ... Nobby    :
+  8 : Red 5 ...s Down    :
+  9 : Red 6 ...essive    :
+ 10 : Red 7 : Taurus     :
+ 11 : Red 8 : Rubber     :
+ 12 : Red 9 ...iMogue    :
+ 13 : Red 10...izzler    :
+ 14 : Red 11...erheim    :
+ 15 : Red 12...orLead    :
+ 16 : Red 13  : Cars     :
+ 17 : Red 14...M-OBX1    :
+ 18 : Red 15  : Lucky    :
+ 19 : Red 16...ni 5th    :
+ 20 : Red 17  :          :
+ 21 : Red 18  :          :
+ 22 : Red 19  :          :
+ 23 : Red 20  :          :
+ 24 : Red 21  :          :
+ 25 : Red 22  :          :
+ 26 : Red 23  :          :
+ 27 : Red 24  :          :
+ 28 : Red 25  :          :
+ 29 : Red 26  :          :
+ 30 : Red 27  :          :
+ 31 : Red 28  :          :
+ 32 : Red 29  :          :
+ 33 : Red 30  :          :
+ 34 : Red 31  :          :
+ 35 : Red 32  :          :
+ 36 : Red 33  :          :
+ 37 : Red 34  :          :
+ 38 : Red 35  :          :
+ 39 : Red 36  :          :
+ 40 : Red 37  :          :
+ 41 : Red 38  :          :
+ 42 : Red 39  :          :
+ 43 : Red 40  :          :
+ 44 : Red 41  :          :
+ 45 : Red 42  :          :
+ 46 : Red 43  :          :
+ 47 : Red 44  :          :
+ 48 : Red 45  :          :
+ 49 : Red 46  :          :
+ 50 : Red 47  :          :
+ 51 : Red 48  :          :
+ 52 : Red 49  :          :
+ 53 : Red 50  :          :
+ 54 : Red 51  :          :
+ 55 : Red 52  :          :
+ 56 : Red 53  :          :
+ 57 : Red 54  :          :
+ 58 : Red 55  :          :
+ 59 : Red 56  :          :
+ 60 : Red 57  :          :
+ 61 : Red 58  :          :
+ 62 : Red 59  :          :
+ 63 : Red 60  :          :
+ 64 : Red 61  :          :
+ 65 : Red 62  :          :
+ 66 : Red 63  :          :
+ 67 : Red 64  :          :
+ 68 : Red 65  :          :
+ 69 : Red 66  :          :
+ 70 : Red 67  :          :
+ 71 : Red 68  :          :
+ 72 : Red 69  :          :
+ 73 : Red 70  :          :
+ 74 : Red 71  :          :
+ 75 : Red 72  :          :
+ 76 : Red 73  :          :
+ 77 : Red 74  :          :
+ 78 : Red 75  :          :
+ 79 : Red 76  :          :
+ 80 : Red 77  :          :
+ 81 : Red 78  :          :
+ 82 : Red 79  :          :
+ 83 : Red 80  :          :
+ 84 : Red 81  :          :
+ 85 : Red 82  :          :
+ 86 : Red 83  :          :
+ 87 : Red 84  :          :
+ 88 : Red 85  :          :
+ 89 : Red 86  :          :
+ 90 : Red 87  :          :
+ 91 : Red 88  :          :
+ 92 : Red 89  :          :
+ 93 : Red 90  :          :
+ 94 : Red 91  :          :
+ 95 : Red 92  :          :
+ 96 : Red 93  :          :
+ 97 : Red 94  :          :
+ 98 : Red 95  :          :
+ 99 : Red 96  :          :
+100 : Red 97  :          :
+101 : Red 98  :          :
+102 : Red 99  :          :
+103 : Red 100  :         :
+104 : Red 101  :         :
+105 : Red 102  :         :
+106 : Red 103  :         :
+107 : Red 104  :         :
+108 : Red 105  :         :
+109 : Red 106  :         :
+110 : Red 107  :         :
+111 : Red 108  :         :
+112 : Red 109  :         :
+113 : Red 110  :         :
+114 : Red 111  :         :
+115 : Red 112  :         :
+116 : Red 113  :         :
+117 : Red 114  :         :
+118 : Red 115  :         :
+119 : Red 116  :         :
+120 : Red 117  :         :
+121 : Red 118  :         :
+122 : Red 119  :         :
+123 : Red 120  :         :
+124 : Red 121  :         :
+125 : Red 122  :         :
+126 : Red 123  :         :
+127 : Red 124  :         :
+128 : Red 125  :         :
+129 : Red 126  :         :
+130 : Red 127  :         :
+131 :GREEN               :
+132 :	                   :
+133 : Preset NR: 0       :
+134 : Preset NR: 1       :
+135 : Preset NR: 2       :
+136 : Preset NR: 3       :
+137 : Preset NR: 4       :
+138 : Preset NR: 5       :
+139 : Preset NR: 6       :
+140 : Preset NR: 7       :
+141 : Preset NR: 8       :
+142 : Preset NR: 9       :
+143 : Preset NR: 10      :
+144 : Preset NR: 11      :
+145 : Preset NR: 12      :
+146 : Preset NR: 13      :
+147 : Preset NR: 14      :
+148 : Preset NR: 15      :
+149 : Preset NR: 16      :
+150 : Preset NR: 17      :
+151 : Preset NR: 18      :
+152 : Preset NR: 19      :
+153 : Preset NR: 20      :
+154 : Preset NR: 21      :
+155 : Preset NR: 22      :
+156 : Preset NR: 23      :
+157 : Preset NR: 24      :
+158 : Preset NR: 25      :
+159 : Preset NR: 26      :
+160 : Preset NR: 27      :
+161 : Preset NR: 28      :
+162 : Preset NR: 29      :
+163 : Preset NR: 30      :
+164 : Preset NR: 31      :
+165 : Preset NR: 32      :
+166 : Preset NR: 33      :
+167 : Preset NR: 34      :
+168 : Preset NR: 35      :
+169 : Preset NR: 36      :
+170 : Preset NR: 37      :
+171 : Preset NR: 38      :
+172 : Preset NR: 39      :
+173 : Preset NR: 40      :
+174 : Preset NR: 41      :
+175 : Preset NR: 42      :
+176 : Preset NR: 43      :
+177 : Preset NR: 44      :
+178 : Preset NR: 45      :
+179 : Preset NR: 46      :
+180 : Preset NR: 47      :
+181 : Preset NR: 48      :
+182 : Preset NR: 49      :
+183 : Preset NR: 50      :
+184 : Preset NR: 51      :
+185 : Preset NR: 52      :
+186 : Preset NR: 53      :
+187 : Preset NR: 54      :
+188 : Preset NR: 55      :
+189 : Preset NR: 56      :
+190 : Preset NR: 57      :
+191 : Preset NR: 58      :
+192 : Preset NR: 59      :
+193 : Preset NR: 60      :
+194 : Preset NR: 61      :
+195 : Preset NR: 62      :
+196 : Preset NR: 63      :
+197 : Preset NR: 64      :
+198 : Preset NR: 65      :
+199 : Preset NR: 66      :
+200 : Preset NR: 67      :
+201 : Preset NR: 68      :
+202 : Preset NR: 69      :
+203 : Preset NR: 70      :
+204 : Preset NR: 71      :
+205 : Preset NR: 72      :
+206 : Preset NR: 73      :
+207 : Preset NR: 74      :
+208 : Preset NR: 75      :
+209 : Preset NR: 76      :
+210 : Preset NR: 77      :
+211 : Preset NR: 78      :
+212 : Preset NR: 79      :
+213 : Preset NR: 80      :
+214 : Preset NR: 81      :
+215 : Preset NR: 82      :
+216 : Preset NR: 83      :
+217 : Preset NR: 84      :
+218 : Preset NR: 85      :
+219 : Preset NR: 86      :
+220 : Preset NR: 87      :
+221 : Preset NR: 88      :
+222 : Preset NR: 89      :
+223 : Preset NR: 90      :
+224 : Preset NR: 91      :
+225 : Preset NR: 92      :
+226 : Preset NR: 93      :
+227 : Preset NR: 94      :
+228 : Preset NR: 95      :
+229 : Preset NR: 96      :
+230 : Preset NR: 97      :
+231 : Preset NR: 98      :
+232 : Preset NR: 99      :
+233 : Preset NR: 100     :
+234 : Preset NR: 101     :
+235 : Preset NR: 102     :
+236 : Preset NR: 103     :
+237 : Preset NR: 104     :
+238 : Preset NR: 105     :
+239 : Preset NR: 106     :
+240 : Preset NR: 107     :
+241 : Preset NR: 108     :
+242 : Preset NR: 109     :
+243 : Preset NR: 110     :
+244 : Preset NR: 111     :
+245 : Preset NR: 112     :
+246 : Preset NR: 113     :
+247 : Preset NR: 114     :
+248 : Preset NR: 115     :
+249 : Preset NR: 116     :
+250 : Preset NR: 117     :
+251 : Preset NR: 118     :
+252 : Preset NR: 119     :
+253 : Preset NR: 120     :
+254 : Preset NR: 121     :
+255 : Preset NR: 122     :
+256 : Preset NR: 123     :
+257 : Preset NR: 124     :
+258 : Preset NR: 125     :
+259 : Preset NR: 126     :
+260 : Preset NR: 127     :
+261 :Blue                :
+262 :	                   :
+263 : Preset NR: 0       :
+264 : Preset NR: 1       :
+265 : Preset NR: 2       :
+266 : Preset NR: 3       :
+267 : Preset NR: 4       :
+268 : Preset NR: 5       :
+269 : Preset NR: 6       :
+270 : Preset NR: 7       :
+271 : Preset NR: 8       :
+272 : Preset NR: 9       :
+273 : Preset NR: 10      :
+274 : Preset NR: 11      :
+275 : Preset NR: 12      :
+276 : Preset NR: 13      :
+277 : Preset NR: 14      :
+278 : Preset NR: 15      :
+279 : Preset NR: 16      :
+280 : Preset NR: 17      :
+281 : Preset NR: 18      :
+282 : Preset NR: 19      :
+283 : Preset NR: 20      :
+284 : Preset NR: 21      :
+285 : Preset NR: 22      :
+286 : Preset NR: 23      :
+287 : Preset NR: 24      :
+288 : Preset NR: 25      :
+289 : Preset NR: 26      :
+290 : Preset NR: 27      :
+291 : Preset NR: 28      :
+292 : Preset NR: 29      :
+293 : Preset NR: 30      :
+294 : Preset NR: 31      :
+295 : Preset NR: 32      :
+296 : Preset NR: 33      :
+297 : Preset NR: 34      :
+298 : Preset NR: 35      :
+299 : Preset NR: 36      :
+300 : Preset NR: 37      :
+301 : Preset NR: 38      :
+302 : Preset NR: 39      :
+303 : Preset NR: 40      :
+304 : Preset NR: 41      :
+305 : Preset NR: 42      :
+306 : Preset NR: 43      :
+307 : Preset NR: 44      :
+308 : Preset NR: 45      :
+309 : Preset NR: 46      :
+310 : Preset NR: 47      :
+311 : Preset NR: 48      :
+312 : Preset NR: 49      :
+313 : Preset NR: 50      :
+314 : Preset NR: 51      :
+315 : Preset NR: 52      :
+316 : Preset NR: 53      :
+317 : Preset NR: 54      :
+318 : Preset NR: 55      :
+319 : Preset NR: 56      :
+320 : Preset NR: 57      :
+321 : Preset NR: 58      :
+322 : Preset NR: 59      :
+323 : Preset NR: 60      :
+324 : Preset NR: 61      :
+325 : Preset NR: 62      :
+326 : Preset NR: 63      :
+327 : Preset NR: 64      :
+328 : Preset NR: 65      :
+329 : Preset NR: 66      :
+330 : Preset NR: 67      :
+331 : Preset NR: 68      :
+332 : Preset NR: 69      :
+333 : Preset NR: 70      :
+334 : Preset NR: 71      :
+335 : Preset NR: 72      :
+336 : Preset NR: 73      :
+337 : Preset NR: 74      :
+338 : Preset NR: 75      :
+339 : Preset NR: 76      :
+340 : Preset NR: 77      :
+341 : Preset NR: 78      :
+342 : Preset NR: 79      :
+343 : Preset NR: 80      :
+344 : Preset NR: 81      :
+345 : Preset NR: 82      :
+346 : Preset NR: 83      :
+347 : Preset NR: 84      :
+348 : Preset NR: 85      :
+349 : Preset NR: 86      :
+350 : Preset NR: 87      :
+351 : Preset NR: 88      :
+352 : Preset NR: 89      :
+353 : Preset NR: 90      :
+354 : Preset NR: 91      :
+355 : Preset NR: 92      :
+356 : Preset NR: 93      :
+357 : Preset NR: 94      :
+358 : Preset NR: 95      :
+359 : Preset NR: 96      :
+360 : Preset NR: 97      :
+361 : Preset NR: 98      :
+362 : Preset NR: 99      :
+363 : Preset NR: 100     :
+364 : Preset NR: 101     :
+365 : Preset NR: 102     :
+366 : Preset NR: 103     :
+367 : Preset NR: 104     :
+368 : Preset NR: 105     :
+369 : Preset NR: 106     :
+370 : Preset NR: 107     :
+371 : Preset NR: 108     :
+372 : Preset NR: 109     :
+373 : Preset NR: 110     :
+374 : Preset NR: 111     :
+375 : Preset NR: 112     :
+376 : Preset NR: 113     :
+377 : Preset NR: 114     :
+378 : Preset NR: 115     :
+379 : Preset NR: 116     :
+380 : Preset NR: 117     :
+381 : Preset NR: 118     :
+382 : Preset NR: 119     :
+383 : Preset NR: 120     :
+384 : Preset NR: 121     :
+385 : Preset NR: 122     :
+386 : Preset NR: 123     :
+387 : Preset NR: 124     :
+388 : Preset NR: 125     :
+389 : Preset NR: 126     :
+390 : Preset NR: 127     :
+391 :Yellow              :
+392 :	                   :
+393 : Preset NR: 0       :
+394 : Preset NR: 1       :
+395 : Preset NR: 2       :
+396 : Preset NR: 3       :
+397 : Preset NR: 4       :
+398 : Preset NR: 5       :
+399 : Preset NR: 6       :
+400 : Preset NR: 7       :
+401 : Preset NR: 8       :
+402 : Preset NR: 9       :
+403 : Preset NR: 10      :
+404 : Preset NR: 11      :
+405 : Preset NR: 12      :
+406 : Preset NR: 13      :
+407 : Preset NR: 14      :
+408 : Preset NR: 15      :
+409 : Preset NR: 16      :
+410 : Preset NR: 17      :
+411 : Preset NR: 18      :
+412 : Preset NR: 19      :
+413 : Preset NR: 20      :
+414 : Preset NR: 21      :
+415 : Preset NR: 22      :
+416 : Preset NR: 23      :
+417 : Preset NR: 24      :
+418 : Preset NR: 25      :
+419 : Preset NR: 26      :
+420 : Preset NR: 27      :
+421 : Preset NR: 28      :
+422 : Preset NR: 29      :
+423 : Preset NR: 30      :
+424 : Preset NR: 31      :
+425 : Preset NR: 32      :
+426 : Preset NR: 33      :
+427 : Preset NR: 34      :
+428 : Preset NR: 35      :
+429 : Preset NR: 36      :
+430 : Preset NR: 37      :
+431 : Preset NR: 38      :
+432 : Preset NR: 39      :
+433 : Preset NR: 40      :
+434 : Preset NR: 41      :
+435 : Preset NR: 42      :
+436 : Preset NR: 43      :
+437 : Preset NR: 44      :
+438 : Preset NR: 45      :
+439 : Preset NR: 46      :
+440 : Preset NR: 47      :
+441 : Preset NR: 48      :
+442 : Preset NR: 49      :
+443 : Preset NR: 50      :
+444 : Preset NR: 51      :
+445 : Preset NR: 52      :
+446 : Preset NR: 53      :
+447 : Preset NR: 54      :
+448 : Preset NR: 55      :
+449 : Preset NR: 56      :
+450 : Preset NR: 57      :
+451 : Preset NR: 58      :
+452 : Preset NR: 59      :
+453 : Preset NR: 60      :
+454 : Preset NR: 61      :
+455 : Preset NR: 62      :
+456 : Preset NR: 63      :
+457 : Preset NR: 64      :
+458 : Preset NR: 65      :
+459 : Preset NR: 66      :
+460 : Preset NR: 67      :
+461 : Preset NR: 68      :
+462 : Preset NR: 69      :
+463 : Preset NR: 70      :
+464 : Preset NR: 71      :
+465 : Preset NR: 72      :
+466 : Preset NR: 73      :
+467 : Preset NR: 74      :
+468 : Preset NR: 75      :
+469 : Preset NR: 76      :
+470 : Preset NR: 77      :
+471 : Preset NR: 78      :
+472 : Preset NR: 79      :
+473 : Preset NR: 80      :
+474 : Preset NR: 81      :
+475 : Preset NR: 82      :
+476 : Preset NR: 83      :
+477 : Preset NR: 84      :
+478 : Preset NR: 85      :
+479 : Preset NR: 86      :
+480 : Preset NR: 87      :
+481 : Preset NR: 88      :
+482 : Preset NR: 89      :
+483 : Preset NR: 90      :
+484 : Preset NR: 91      :
+485 : Preset NR: 92      :
+486 : Preset NR: 93      :
+487 : Preset NR: 94      :
+488 : Preset NR: 95      :
+489 : Preset NR: 96      :
+490 : Preset NR: 97      :
+491 : Preset NR: 98      :
+492 : Preset NR: 99      :
+493 : Preset NR: 100     :
+494 : Preset NR: 101     :
+495 : Preset NR: 102     :
+496 : Preset NR: 103     :
+497 : Preset NR: 104     :
+498 : Preset NR: 105     :
+499 : Preset NR: 106     :
+500 : Preset NR: 107     :
+501 : Preset NR: 108     :
+502 : Preset NR: 109     :
+503 : Preset NR: 110     :
+504 : Preset NR: 111     :
+505 : Preset NR: 112     :
+506 : Preset NR: 113     :
+507 : Preset NR: 114     :
+508 : Preset NR: 115     :
+509 : Preset NR: 116     :
+510 : Preset NR: 117     :
+511 : Preset NR: 118     :
+512 : Preset NR: 119     :
+513 : Preset NR: 120     :
+514 : Preset NR: 121     :
+515 : Preset NR: 122     :
+516 : Preset NR: 123     :
+517 : Preset NR: 124     :
+518 : Preset NR: 125     :
+519 : Preset NR: 126     :
+520 : Preset NR: 127     :
