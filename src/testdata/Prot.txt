@@ -1,0 +1,538 @@
+  1 :Keys                :B
+  2 :kbd:GrandPno        :P
+  3 :kbd:Heaven          :P
+  4 :kbd:TinePno*        :P
+  5 :kbd:7ftGrand        :P
+  6 :kbd:ElGrand1        :P
+  7 :kbd:Roadz 1         :P
+  8 :kbd:Tine EP         :P
+  9 :kbd:Claved          :P
+ 10 :Percussion          :B
+ 11 :prc:Marimba         :P
+ 12 :prc:Vibe>Mod        :P
+ 13 :prc:TimbaMal        :P
+ 14 :prc:Javanese        :P
+ 15 :prc:Celeste         :P
+ 16 :prc:Trinidad        :P
+ 17 :prc:Carillon        :P
+ 18 :prc:Glock           :P
+ 19 :Organ               :B
+ 20 :org:VintgeB3        :P
+ 21 :org:That B3         :P
+ 22 :org:Be Vocal        :P
+ 23 :org:Rock #2         :P
+ 24 :org:3rd Perc        :P
+ 25 :org:PureTone        :P
+ 26 :org:Synthgan        :P
+ 27 :org:Tarkus          :P
+ 28 :Guitar              :B
+ 29 :gtr:EcoStrat        :P
+ 30 :gtr:ClenStrt        :P
+ 31 :gtr:Acoustic        :P
+ 32 :gtr:12String        :P
+ 33 :gtr:CombPad*        :P
+ 34 :gtr:Funky           :P
+ 35 :gtr:Mutes           :P
+ 36 :gtr:Lazy G          :P
+ 37 :Bass                :B
+ 38 :bas:Miracle         :P
+ 39 :bas:& Harms         :P
+ 40 :bas:Jazzer          :P
+ 41 :bas:TurboSyn        :P
+ 42 :bas:FlintRok        :P
+ 43 :bas:FunkyPop        :P
+ 44 :bas:Chorused        :P
+ 45 :bas:Noser           :P
+ 46 :Strings             :B
+ 47 :str:Viol Duo        :P
+ 48 :str:BigViola        :P
+ 49 :str:BigCello        :P
+ 50 :str:Soloists        :P
+ 51 :str:PizzViol        :P
+ 52 :str:PizzCeli        :P
+ 53 :str:8va Pizz        :P
+ 54 :str:Quartet         :P
+ 55 :Ensemble            :B
+ 56 :ens:Xpresive        :P
+ 57 :ens:Orchstra        :P
+ 58 :ens:Moody           :P
+ 59 :ens:Symphony        :P
+ 60 :ens:VoxHuman        :P
+ 61 :ens:Str&Vox         :P
+ 62 :ens:Choir           :P
+ 63 :ens:OBString        :P
+ 64 :Brass               :B
+ 65 :brs:HdTrumpt        :P
+ 66 :brs:MutedTpt        :P
+ 67 :brs:Trombone        :P
+ 68 :brs:Fr Horns        :P
+ 69 :brs:Section*        :P
+ 70 :brs:Full On*        :P
+ 71 :brs:VelFalls        :P
+ 72 :brs:Layers          :P
+ 73 :REED                :B
+ 74 :red:SteroSax        :P
+ 75 :red:”G” Sax         :P
+ 76 :red:Bari Sax        :P
+ 77 :red:Soprano         :P
+ 78 :red:TwinMood        :P
+ 79 :red:Eng Horn        :P
+ 80 :red:DblSectn        :P
+ 81 :red:Oboe            :P
+ 82 :Pipe                :B
+ 83 :pip:VerbFlut        :P
+ 84 :pip:Whistle         :P
+ 85 :pip:ButtrFlu        :P
+ 86 :pip:Calliope        :P
+ 87 :pip:Herble          :P
+ 88 :pip:SynthVox        :P
+ 89 :pip:Pizzillo        :P
+ 90 :pip:Sakura          :P
+ 91 :Lead                :B
+ 92 :led:BrasSolo        :P
+ 93 :led:MeinSolo        :P
+ 94 :led:SoloMini        :P
+ 95 :led:Hollow          :P
+ 96 :led:Venus NV        :P
+ 97 :led:PortaMod        :P
+ 98 :led:BuzzSolo        :P
+ 99 :led:FuseHorn        :P
+100 :PAD                 :B
+101 :pad:Dark Syn        :P
+102 :pad:Spiritu         :P
+103 :pad:RoxyMuse        :P
+104 :pad:Kryonite        :P
+105 :pad:DeString        :P
+106 :pad:CosmoMan        :P
+107 :pad:Guidance        :P
+108 :pad:Dynalog         :P
+109 :SYNTH               :B
+110 :syn:Krystala        :P
+111 :syn:Iron Man        :P
+112 :syn:Flashbak        :P
+113 :syn:Phantazi        :P
+114 :syn:RingHard        :P
+115 :syn:Zoundz          :P
+116 :syn:Watering        :P
+117 :syn:Glisando        :P
+118 :Ethno               :B
+119 :eth:JamSteel        :P
+120 :eth:Kyoto           :P
+121 :eth:Metalia         :P
+122 :eth:KingCong        :P
+123 :eth:Dulcimer        :P
+124 :eth:Balinese        :P
+125 :eth:Far East        :P
+126 :eth:Sitari *        :P
+127 :Drum                :B
+128 :drm:RockKit1        :P
+129 :drm:Wacky           :P
+130 :drm:SteroKit        :P
+131 :drm:SynthKit        :P
+132 :drm:Snares          :P
+133 :drm:Kicks           :P
+134 :drm:Cymbals         :P
+135 :drm:Tamborin        :P
+136 :FX                  :B
+137 :sfx:Group #1        :P
+138 :sfx:WildBoy*        :P
+139 :sfx:Infinite        :P
+140 :sfx:LostSoul        :P
+141 :sfx:Cyclotrn        :P
+142 :sfx:Insects         :P
+143 :sfx:Control         :P
+144 :sfx:Fluterby        :P
+145 :Keys                :B
+146 :kbd:BritePno        :P
+147 :kbd:Dark Pno        :P
+148 :kbd:PnoSyn *        :P
+149 :kbd:ElGrand2        :P
+150 :kbd:Dramatic        :P
+151 :kbd:MedElPno        :P
+152 :kbd:Harpsicd        :P
+153 :kbd:Pizziano        :P
+154 :Percussion          :B
+155 :prc:Islander        :P
+156 :prc:OddVibes        :P
+157 :prc:Tamblock        :P
+158 :prc:Airimba         :P
+159 :prc:Xylofony        :P
+160 :prc:Submerge        :P
+161 :prc:Maletoid        :P
+162 :prc:CosmoBel        :P
+163 :Organ               :B
+164 :org:DrawBarz        :P
+165 :org:Mod>Lesl        :P
+166 :org:Clickety        :P
+167 :org:Chorus          :P
+168 :org:TheOther        :P
+169 :org:Smoothy*        :P
+170 :org:Reedy5th        :P
+171 :org:Church          :P
+172 :Guitar              :B
+173 :gtr:El 12Str        :P
+174 :gtr:& Winds         :P
+175 :gtr:El Jazz         :P
+176 :gtr:Baroque         :P
+177 :gtr:Baritone        :P
+178 :gtr:Pianotar        :P
+179 :gtr:Harmonic        :P
+180 :gtr:Feedback        :P
+181 :Bass                :B
+182 :bas:Thunder         :P
+183 :bas:El Viva         :P
+184 :bas:Fretles1        :P
+185 :bas:Slap #1         :P
+186 :bas:BigBotm*        :P
+187 :bas:DarkRock        :P
+188 :bas:Mystery         :P
+189 :bas:Bad Boy         :P
+190 :Strings             :B
+191 :str:Conductr        :P
+192 :str:Diverti         :P
+193 :str:Octaves         :P
+194 :str:XpresPiz        :P
+195 :str:PizzBass        :P
+196 :str:PizVioln        :P
+197 :str:Fr Cello        :P
+198 :str:Vienna          :P
+199 :Ensemble            :B
+200 :ens:Melotron        :P
+201 :ens:The Hall        :P
+202 :ens:Montovan        :P
+203 :ens:Concerto        :P
+204 :ens:Envious         :P
+205 :ens:Crystal*        :P
+206 :ens:SloStrng        :P
+207 :ens:Vostring        :P
+208 :Brass               :B
+209 :brs:Sax/Tpt         :P
+210 :brs:Big City        :P
+211 :brs:Fox Hunt        :P
+212 :brs:T.O.P. *        :P
+213 :brs:FullFall        :P
+214 :brs:ThePops*        :P
+215 :brs:Crispy          :P
+216 :brs:Syntho          :P
+217 :Reed                :B
+218 :red:Alto Sax        :P
+219 :red:5th Ave         :P
+220 :red:NoVibObo        :P
+221 :red:BariAlto        :P
+222 :red:BasnEHrn        :P
+223 :red:SecWinds        :P
+224 :red:CombViol        :P
+225 :red:ClarOboe        :P
+226 :Pipe                :B
+227 :pip:Piccolo         :P
+228 :pip:Chiffer         :P
+229 :pip:BrethFlt        :P
+230 :pip:Ocarina         :P
+231 :pip:Insprate        :P
+232 :pip:PanFlut*        :P
+233 :pip:EcoFlut*        :P
+234 :pip:Duces Hi        :P
+235 :Lead                :B
+236 :led:WynWoods        :P
+237 :led:SoftSolo        :P
+238 :led:Big Muff        :P
+239 :led:Chiff           :P
+240 :led:Mjr Solo        :P
+241 :led:Buzzard         :P
+242 :led:FrogFret        :P
+243 :led:Reedy           :P
+244 :PAD                 :B
+245 :pad:Voices          :P
+246 :pad:NewerAge        :P
+247 :pad:Sweeper         :P
+248 :pad:Warm Up         :P
+249 :pad:Empyrean        :P
+250 :pad:PolySyn         :P
+251 :pad:Britenes        :P
+252 :pad:Essence         :P
+253 :Synth               :B
+254 :syn:echoist*        :P
+255 :syn:Mem Moog        :P
+256 :syn:Blue Ice        :P
+257 :syn:Atmos           :P
+258 :syn:Mod Harp        :P
+259 :syn:CyberGuy        :P
+260 :syn:Intervl5        :P
+261 :syn:Spheric         :P
+262 :Ethno               :B
+263 :eth:Kalimba         :P
+264 :eth:Amnesia         :P
+265 :eth:Shanai          :P
+266 :eth:TikiRoom        :P
+267 :eth:Lute            :P
+268 :eth:AsiaReed        :P
+269 :eth:JunglDrm        :P
+270 :eth:Noh Way*        :P
+271 :Drum                :B
+272 :drm:EchoBeat        :P
+273 :drm:Hip Kit*        :P
+274 :drm:Zip kit         :P
+275 :drm:Da Beat*        :P
+276 :drm:909 Kit         :P
+277 :drm:Syn Kit*        :P
+278 :drm:Latino          :P
+279 :drm:WinChime        :P
+280 :SFX                 :B
+281 :sfx:Sub Rosa        :P
+282 :sfx:Too Wyrd        :P
+283 :sfx:Rockets         :P
+284 :sfx:ByTheSea        :P
+285 :sfx:Spacely         :P
+286 :sfx:Forestry        :P
+287 :sfx:Sputnik         :P
+288 :sfx:Whales          :P
+289 :Keys                :B
+290 :kbd:VryGrand        :P
+291 :kbd:RoadHaus        :P
+292 :kbd:DigPiano        :P
+293 :kbd:Grandios        :P
+294 :kbd:RoadzStr        :P
+295 :kbd:Roadz 2         :P
+296 :kbd:NoseClav        :P
+297 :kbd:Clavinet        :P
+298 :Percussion          :B
+299 :prc:Mod Vibe        :P
+300 :prc:Marimba2        :P
+301 :prc:MusicBox        :P
+302 :prc:Vibrafon        :P
+303 :prc:Bellafon        :P
+304 :prc:Blok Hed        :P
+305 :prc:TubeBels        :P
+306 :prc:Cylybels        :P
+307 :Organ               :B
+308 :org:Cathedra        :P
+309 :org:AnotherB        :P
+310 :org:B Again         :P
+311 :org:WarmTone        :P
+312 :org:Notre           :P
+313 :org:Accordia        :P
+314 :org:MouthHrp        :P
+315 :org:Obordian        :P
+316 :gtr:Guitaras        :P
+317 :gtr:The Hero        :P
+318 :gtr:AcStereo        :P
+319 :gtr:Buckeroo        :P
+320 :gtr:PalmMute        :P
+321 :gtr:Swirly          :P
+322 :gtr:Syn Mute        :P
+323 :gtr:8va Pick        :P
+324 :Bass                :B
+325 :bas:StonSlap        :P
+326 :bas:Fretles2        :P
+327 :bas:Syntheti        :P
+328 :bas:Fretles3        :P
+329 :bas:Super JX        :P
+330 :bas:Slapper         :P
+331 :bas:LosAngel        :P
+332 :bas:Jupiter         :P
+333 :Strings             :B
+334 :str:SoloViin        :P
+335 :str:SoloViol        :P
+336 :str:SoloCelo        :P
+337 :str:CntraBas        :P
+338 :str:Tremolo         :P
+339 :str:PizzCmbo        :P
+340 :str:OrchHarp        :P
+341 :str:TimpCelo        :P
+342 :Ensemble            :B
+343 :ens:Strings         :P
+344 :ens:Quartet2        :P
+345 :ens:SynStrng        :P
+346 :ens:XtraSlow        :P
+347 :ens:VoxSpred        :P
+348 :ens:StrayVox        :P
+349 :ens:Ominous         :P
+350 :ens:OrchHit*        :P
+351 :Brass               :B
+352 :brs:Trumpet         :P
+353 :brs:Big Band        :P
+354 :brs:Tuba            :P
+355 :brs:And Wind        :P
+356 :brs:FrHorns2        :P
+357 :brs:Tijuana         :P
+358 :brs:Gilespie        :P
+359 :brs:Layered*        :P
+360 :Reed                :B
+361 :red:Sax&Mute        :P
+362 :red:DblReedz        :P
+363 :red:TenorSax        :P
+364 :red:PowerSax        :P
+365 :red:SynthSax        :P
+366 :red:Layered*        :P
+367 :red:Bassoon         :P
+368 :red:BasClrnt        :P
+369 :Pipe                :B
+370 :pip:SynFlute        :P
+371 :pip:Flauta          :P
+372 :pip:8vaFlute        :P
+373 :pip:BrethEco        :P
+374 :pip:Bottle          :P
+375 :pip:Flut/Vox        :P
+376 :pip:Xpresivo        :P
+377 :pip:Picolode        :P
+378 :Lead                :B
+379 :led:Wissler         :P
+380 :led:MoogSol1        :P
+381 :led:New Ager        :P
+382 :led:Medium          :P
+383 :led:& Bass          :P
+384 :led:Hornz           :P
+385 :led:Xpresso         :P
+386 :led:MoogSol2        :P
+387 :Pad                 :B
+388 :pad:AirStrng        :P
+389 :pad:UpRite          :P
+390 :pad:Vektor 4        :P
+391 :pad:Cortext         :P
+392 :pad:0 Gravty        :P
+393 :pad:Coolness        :P
+394 :pad:Grunge          :P
+395 :pad:Mythical        :P
+396 :Synth               :B
+397 :syn:Rain            :P
+398 :syn:Cubic Z         :P
+399 :syn:Phairest        :P
+400 :syn:PiPaBend        :P
+401 :syn:Nova            :P
+402 :syn:Burma           :P
+403 :syn:Wrinkles        :P
+404 :syn:MoonWalk        :P
+405 :Ethno               :B
+406 :eth:Fiddle          :P
+407 :eth:Kotoid          :P
+408 :eth:EastPluk        :P
+409 :eth:Sitarica        :P
+410 :eth:Shamisen        :P
+411 :eth:Koto            :P
+412 :eth:SteelDrm        :P
+413 :eth:Latimba*        :P
+414 :Drum                :B
+415 :drm:GM Drum*        :P
+416 :drm:LatinDrm        :P
+417 :drm:RokKit2         :P
+418 :drm:Rap Kit         :P
+419 :drm:Taiko           :P
+420 :drm:Tam Tam         :P
+421 :drm:AstroTmp        :P
+422 :drm:RevCymbl        :P
+423 :SFX                 :B
+424 :sfx:MetlVapr        :P
+425 :sfx:WaleTale        :P
+426 :sfx:RubSlap         :P
+427 :sfx:YourHead        :P
+428 :sfx:telefone        :P
+429 :sfx:Spiritz         :P
+430 :sfx:En Furno        :P
+431 :sfx:Oh Heli         :P
+432 :Keys                :B
+433 :kbd:IceHeven        :P
+434 :kbd:PnoWinds        :P
+435 :kbd:PnoForte        :P
+436 :kbd:Pad/Pno         :P
+437 :kbd:Big Comp        :P
+438 :kbd:Pianorg         :P
+439 :kbd:Wurli EP        :P
+440 :kbd:Mute Pno        :P
+441 :Percussion          :B
+442 :prc:Equinox         :P
+443 :prc:Waterway        :P
+444 :prc:Disonant        :P
+445 :prc:Of China        :P
+446 :prc:Omens           :P
+447 :prc:VibroPad        :P
+448 :prc:Shining         :P
+449 :prc:BelleAir        :P
+450 :Organ               :B
+451 :org:ToTheBar        :P
+452 :org:Tocatta7        :P
+453 :org:5ths Bar        :P
+454 :org:Kalimgan        :P
+455 :org:Reedz           :P
+456 :org:Doner           :P
+457 :org:Fisamon         :P
+458 :org:& Bass          :P
+459 :Guitar              :B
+460 :gtr:PlukFair        :P
+461 :gtr:Warped          :P
+462 :gtr:LapSteel        :P
+463 :gtr:Combo12         :P
+464 :gtr:Fingerz         :P
+465 :gtr:Calm B4         :P
+466 :gtr:AgntCoop        :P
+467 :gtr:Xtopia          :P
+468 :Bass                :B
+469 :bas:FatSynth        :P
+470 :bas:Rouge           :P
+471 :bas:Sick One        :P
+472 :bas:RoundSyn        :P
+473 :bas:Slapper2        :P
+474 :bas:Mondoid         :P
+475 :bas:Kisser          :P
+476 :bas:Pulsar          :P
+477 :Strings             :B
+478 :str:PizzSter        :P
+479 :str:PizCntrl        :P
+480 :str:Swell           :P
+481 :str:DevDance        :P
+482 :str:PwrCello        :P
+483 :str:AhVienna        :P
+484 :str:Fairlite        :P
+485 :str:Thematic        :P
+486 :Ensemble            :B
+487 :ens:Mixture1        :P
+488 :ens:Legatto         :P
+489 :ens:Mixture2        :P
+490 :ens:PeaceOrc        :P
+491 :ens:Chromax         :P
+492 :ens:VoxWarpr        :P
+493 :ens:StrGlide        :P
+494 :ens:StrFalls        :P
+495 :Brass               :B
+496 :brs:Sesh Tpt        :P
+497 :brs:X-hibit         :P
+498 :brs:Chi-Town        :P
+499 :brs:Waterboy        :P
+500 :brs:Bones           :P
+501 :brs:Popster         :P
+502 :brs:DXster          :P
+503 :brs:& Voices        :P
+504 :Reed                :B
+505 :red:Fusion          :P
+506 :red:MythMakr        :P
+507 :red:SaxonSun        :P
+508 :red:Dead Sea        :P
+509 :red:Spring          :P
+510 :red:OBX Clar        :P
+511 :red:Claraboe        :P
+512 :red:Chamber         :P
+513 :Pipe                :B
+514 :pip:MuteFlut        :P
+515 :pip:Magical         :P
+516 :pip:CryOnMe         :P
+517 :pip:VerblAtk        :P
+518 :pip:Flutachi        :P
+519 :pip:The Flew        :P
+520 :pip:Bellwiss        :P
+521 :pip:FluteVox        :P
+522 :Lead                :B
+523 :led:Echo Tpt        :P
+524 :led:Miles D         :P
+525 :led:IsleyRok        :P
+526 :led:5thsLead        :P
+527 :led:Synister        :P
+528 :led:SynSushi        :P
+529 :led:OvrDrive        :P
+530 :led:PipeSolo        :P
+531 :Synth               :B
+532 :syn:LunaWind        :P
+533 :syn:BrassVox        :P
+534 :syn:DarkAges        :P
+535 :syn:Mtalovox        :P
+536 :syn:IceForst        :P
+537 :syn:Mortale         :P
+538 :syn:Terminus        :P

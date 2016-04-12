@@ -1,0 +1,509 @@
+  1 :RED                 :B
+  2 :Red 0  ...erBass    :P
+  3 :Red 1  ...n Bass    :P
+  4 :Red 2  ...ass004    :P
+  5 :Red 3  ...oIo001    :P
+  6 :Red 4  ...adBass    :P
+  7 :Red 5  ...Knobby    :P
+  8 :Red 6  ...'sdown    :P
+  9 :Red 7  ...ssiveC    :P
+ 10 :Red 8  ...ssPdls    :P
+ 11 :Red 9  ...lletBs    :P
+ 12 :Red 10 ...iMogue    :P
+ 13 :Red 11 ...izzler    :P
+ 14 :Red 12 ...erheim    :P
+ 15 :Red 13 ...orLead    :P
+ 16 :Red 14 ...rsSync    :P
+ 17 :Red 15 ...MOBX01    :P
+ 18 :Red 16 ...yPorta    :P
+ 19 :Red 17 ...ini5th    :P
+ 20 :Red 18 ...owLead    :P
+ 21 :Red 19   : Wowza    :P
+ 22 :Red 20 ...eamPad    :P
+ 23 :Red 21 ...racker    :P
+ 24 :Red 22 ...ftCake    :P
+ 25 :Red 23 ...yPulse    :P
+ 26 :Red 24 ...hisper    :P
+ 27 :Red 25 ...truder    :P
+ 28 :Red 26 ...Shader    :P
+ 29 :Red 27 ...olyPad    :P
+ 30 :Red 28 ...tBalls    :P
+ 31 :Red 29 ...lowPad    :P
+ 32 :Red 30 ...lkworm    :P
+ 33 :Red 31 ...eepPad    :P
+ 34 :Red 32 ...Panner    :P
+ 35 :Red 33 ...semble    :P
+ 36 :Red 34 ...ounder    :P
+ 37 :Red 35 ...nChoir    :P
+ 38 :Red 36 ...gDream    :P
+ 39 :Red 37 ...ySweep    :P
+ 40 :Red 38 ...usters    :P
+ 41 :Red 39 ...lSweep    :P
+ 42 :Red 40 ...BSweep    :P
+ 43 :Red 41 ...trings    :P
+ 44 :Red 42 ...genius    :P
+ 45 :Red 43 ...nSweep    :P
+ 46 :Red 44 ...ySweep    :P
+ 47 :Red 45 ...eep101    :P
+ 48 :Red 46 ...Dreams    :P
+ 49 :Red 47 ...strngs    :P
+ 50 :Red 48 ...Strngs    :P
+ 51 :Red 49 ...trings    :P
+ 52 :Red 50 ...hChoir    :P
+ 53 :Red 51 ...trings    :P
+ 54 :Red 52 ...tsTime    :P
+ 55 :Red 53 ...trings    :P
+ 56 :Red 54 ...Violin    :P
+ 57 :Red 55 ...Flute8    :P
+ 58 :Red 56 ...urney	    :P
+ 59 :Red 57 ...ntComp    :P
+ 60 :Red 58 ...nsible    :P
+ 61 :Red 59   : Dude     :P
+ 62 :Red 60 ...heel2	    :P
+ 63 :Red 61 ...Strngs    :P
+ 64 :Red 62 ...fySync    :P
+ 65 :Red 63 ...omperC    :P
+ 66 :Red 64 ...hyHarp    :P
+ 67 :Red 65 ...ynclav    :P
+ 68 :Red 66 ...nyBell    :P
+ 69 :Red 67 ...alimba    :P
+ 70 :Red 68 ...yPiano    :P
+ 71 :Red 69 ...noBell    :P
+ 72 :Red 70 ...icaMon    :P
+ 73 :Red 71 ...luckyK    :P
+ 74 :Red 72 ...rillon    :P
+ 75 :Red 73 ...teeple    :P
+ 76 :Red 74 ...dBell8    :P
+ 77 :Red 75 ...BellFX    :P
+ 78 :Red 76 ...ianoC	    :P
+ 79 :Red 77 ...nWurly    :P
+ 80 :Red 78 ...assjpn    :P
+ 81 :Red 79 ...OnThe5    :P
+ 82 :Red 80 ...sOnMW2    :P
+ 83 :Red 81 ...0sClav    :P
+ 84 :Red 82 ...to-Wah    :P
+ 85 :Red 83 ...rdrive    :P
+ 86 :Red 84 ...fParis    :P
+ 87 :Red 85 ...berry	    :P
+ 88 :Red 86   : Dpad     :P
+ 89 :Red 87 ...dyCity    :P
+ 90 :Red 88 ...foamCZ    :P
+ 91 :Red 89 ...justin    :P
+ 92 :Red 90 ...cience    :P
+ 93 :Red 91 ...astoff    :P
+ 94 :Red 92 ...adPack    :P
+ 95 :Red 93   : Man      :P
+ 96 :Red 94 ...arized    :P
+ 97 :Red 95 ...entist    :P
+ 98 :Red 96   : Gizmo    :P
+ 99 :Red 97 ...Rhythm    :P
+100 :Red 98 ...finity    :P
+101 :Red 99 ...heBahn    :P
+102 :Red 100...icBody    :P
+103 :Red 101...rorail    :P
+104 :Red 102...ySlide    :P
+105 :Red 103... Splak    :P
+106 :Red 104...ythmoC    :P
+107 :Red 105...MyJuno    :P
+108 :Red 106...ubKick    :P
+109 :Red 107...nSnare    :P
+110 :Red 108...ficRim    :P
+111 :Red 109...HiHats    :P
+112 :Red 110...edPots    :P
+113 :Red 111...resser    :P
+114 :Red 112...,Picky    :P
+115 :Red 113...-Kick	    :P
+116 :Red 114...nSnare    :P
+117 :Red 115...ealHat    :P
+118 :Red 116...owbell    :P
+119 :Red 117...robeat    :P
+120 :Red 118...Cymbal    :P
+121 :Red 119...dblock    :P
+122 :Red 120...eBeats    :P
+123 :GREEN               :B
+124 :Green 0... Bass	    :P
+125 :Green 1...ryBass    :P
+126 :Green 2...ioBass    :P
+127 :Green 3   : J00     :P
+128 :Green 4...wlBASS    :P
+129 :Green 5...mbass3    :P
+130 :Green 6...LowI.Q    :P
+131 :Green 7...shyBaz    :P
+132 :Green 8...ubBass    :P
+133 :Green 9...-Knock    :P
+134 :Green 1...lassic    :P
+135 :Green 1...tioner    :P
+136 :Green 1...niLead    :P
+137 :Green 1...enDays    :P
+138 :Green 1...amLead    :P
+139 :Green 1...ogLead    :P
+140 :Green 1...starIV    :P
+141 :Green 1...arcass    :P
+142 :Green 1...taLead    :P
+143 :Green 1...lators    :P
+144 :Green 2...berpad    :P
+145 :Green 2...viePad    :P
+146 :Green 2...ialize    :P
+147 :Green 2...la Pad    :P
+148 :Green 2...ueDoll    :P
+149 :Green 2...Morten    :P
+150 :Green 2...arkPad    :P
+151 :Green 2...ivePad    :P
+152 :Green 2...oftPad    :P
+153 :Green 2...mamoru    :P
+154 :Green 3...nChoir    :P
+155 :Green 3...'sthat    :P
+156 :Green 3...dSweep    :P
+157 :Green 3...onizer    :P
+158 :Green 3...ionPad    :P
+159 :Green 3...yVoice    :P
+160 :Green 3...lMoths    :P
+161 :Green 3...Player    :P
+162 :Green 3...arWire    :P
+163 :Green 3...Maresh    :P
+164 :Green 4...arGate    :P
+165 :Green 4...pSpace    :P
+166 :Green 4...rpiano    :P
+167 :Green 4...ouncer    :P
+168 :Green 4...peater    :P
+169 :Green 4...rouble    :P
+170 :Green 4...nsweep    :P
+171 :Green 4...terPad    :P
+172 :Green 4...Ripley    :P
+173 :Green 4... en BR    :P
+174 :Green 5...trings    :P
+175 :Green 5...trings    :P
+176 :Green 5...acoder    :P
+177 :Green 5...ryhigh    :P
+178 :Green 5...trings    :P
+179 :Green 5...cClass    :P
+180 :Green 5...assPad    :P
+181 :Green 5...wumpet    :P
+182 :Green 5...r.Horn    :P
+183 :Green 5...Brassy    :P
+184 :Green 6...eDecay    :P
+185 :Green 6...comper    :P
+186 :Green 6...rSynth    :P
+187 :Green 6...tyCtrl    :P
+188 :Green 6...urgery    :P
+189 :Green 6...imator    :P
+190 :Green 6...nkTone    :P
+191 :Green 6...seComp    :P
+192 :Green 6...yTone	    :P
+193 :Green 6...The80s    :P
+194 :Green 7...aphone    :P
+195 :Green 7...+Steel    :P
+196 :Green 7...Anteek    :P
+197 :Green 7...yChord    :P
+198 :Green 7...elDrum    :P
+199 :Green 7...illate    :P
+200 :Green 7...nBells    :P
+201 :Green 7...monics    :P
+202 :Green 7...MyBell    :P
+203 :Green 7...ndBell    :P
+204 :Green 8...fRickW    :P
+205 :Green 8...EP?OK!    :P
+206 :Green 8...yOrgan    :P
+207 :Green 8...Zorgan    :P
+208 :Green 8...lOrgan    :P
+209 :Green 8...elClav    :P
+210 :Green 8...vitude    :P
+211 :Green 8...roquer    :P
+212 :Green 8...Circus    :P
+213 :Green 8...rLayer    :P
+214 :Green 9...Jalopy    :P
+215 :Green 9...: Wind    :P
+216 :Green 9...rstorm    :P
+217 :Green 9... FlyBy    :P
+218 :Green 9...Machin    :P
+219 :Green 9...Stream    :P
+220 :Green 9... Herge    :P
+221 :Green 9...chingT    :P
+222 :Green 9...ampGas    :P
+223 :Green 9...vs.Cat    :P
+224 :Green 1...plicer    :P
+225 :Green 1...icFall    :P
+226 :Green 1...lFrame    :P
+227 :Green 1...nWombB    :P
+228 :Green 1...kSeque    :P
+229 :Green 1...rdamDJ    :P
+230 :Green 1...bulate    :P
+231 :Green 1...d1and2    :P
+232 :Green 1...cJello    :P
+233 :Green 1...ckyArp    :P
+234 :Green 1...Mipmap    :P
+235 :Green 1...ySnare    :P
+236 :Green 1...syToms    :P
+237 :Green 1...lipper    :P
+238 :Green 1...-HiHat    :P
+239 :Green 1...it-Pat    :P
+240 :Green 1...BDMath    :P
+241 :Green 1...kedCan    :P
+242 :Green 1...BDCool    :P
+243 :Green 1...hythms    :P
+244 :Green 1... Kickd    :P
+245 :Green 1... Snare    :P
+246 :Green 1...ngRide    :P
+247 :Green 1...OBeats    :P
+248 :Green 1... Clave    :P
+249 :Green 1...FMHat3    :P
+250 :Green 1...cSnare    :P
+251 :Green 1...eality    :P
+252 :Blue                :B
+253 :Blue 0 ...rBass	    :P
+254 :Blue 1 ...ieBass    :P
+255 :Blue 2 ...sPedal    :P
+256 :Blue 3 ...zeBass    :P
+257 :Blue 4 ...ndDirt    :P
+258 :Blue 5 ...-Luxe3    :P
+259 :Blue 6 ...veBass    :P
+260 :Blue 7 ...humper    :P
+261 :Blue 8 ...ilBass    :P
+262 :Blue 9 ...Modern    :P
+263 :Blue 10...oModMe    :P
+264 :Blue 11...lyLead    :P
+265 :Blue 12...usLead    :P
+266 :Blue 13...ntDuck    :P
+267 :Blue 14...rOrbit    :P
+268 :Blue 15...kemini    :P
+269 :Blue 16...iamond    :P
+270 :Blue 17...eLead	    :P
+271 :Blue 18...erLead    :P
+272 :Blue 19...arpLd	    :P
+273 :Blue 20...upiter    :P
+274 :Blue 21...asePAD    :P
+275 :Blue 22...eetPad    :P
+276 :Blue 23...ingPad    :P
+277 :Blue 24...oftPad    :P
+278 :Blue 25...rassic    :P
+279 :Blue 26...gelian    :P
+280 :Blue 27...sitors    :P
+281 :Blue 28...ArcPad    :P
+282 :Blue 29...ottend    :P
+283 :Blue 30...ucture    :P
+284 :Blue 31...riends    :P
+285 :Blue 32...ticPad    :P
+286 :Blue 33...onique    :P
+287 :Blue 34...asePad    :P
+288 :Blue 35...yna AO    :P
+289 :Blue 36...omHere    :P
+290 :Blue 37...antPad    :P
+291 :Blue 38...geDawn    :P
+292 :Blue 39...growth    :P
+293 :Blue 40...rgipad    :P
+294 :Blue 41...mberMe    :P
+295 :Blue 42...Voices    :P
+296 :Blue 43...ndVoko    :P
+297 :Blue 44...rstand    :P
+298 :Blue 45...rehend    :P
+299 :Blue 46...edEnts    :P
+300 :Blue 47... Uvula    :P
+301 :Blue 48...merges    :P
+302 :Blue 49...lation    :P
+303 :Blue 50...assPad    :P
+304 :Blue 51...dBrass    :P
+305 :Blue 52... Brass    :P
+306 :Blue 53...gBrass    :P
+307 :Blue 54...eSteak    :P
+308 :Blue 55...dBrass    :P
+309 :Blue 56...sBrass    :P
+310 :Blue 57...Brass5    :P
+311 :Blue 58...TheTop    :P
+312 :Blue 59...Trumpt    :P
+313 :Blue 60   : Jump    :P
+314 :Blue 61...akable    :P
+315 :Blue 62...enSync    :P
+316 :Blue 63...ooker*    :P
+317 :Blue 64...hisker    :P
+318 :Blue 65...lpTime    :P
+319 :Blue 66...eDrops    :P
+320 :Blue 67...Planet    :P
+321 :Blue 68...erator    :P
+322 :Blue 69...'Riley    :P
+323 :Blue 70...orelko    :P
+324 :Blue 71...cDecay    :P
+325 :Blue 72...naComp    :P
+326 :Blue 73...Fooled    :P
+327 :Blue 74...urface    :P
+328 :Blue 75...achine    :P
+329 :Blue 76...ssiva	    :P
+330 :Blue 77...ogetic    :P
+331 :Blue 78...anding    :P
+332 :Blue 79...ngitis    :P
+333 :Blue 80... Piano    :P
+334 :Blue 82...ezvous    :P
+335 :Blue 82...icKeys    :P
+336 :Blue 83... Organ    :P
+337 :Blue 84... Organ    :P
+338 :Blue 85...yClavi    :P
+339 :Blue 86... Clavy    :P
+340 :Blue 87...Harpsi    :P
+341 :Blue 88...erfest    :P
+342 :Blue 89...Guitar    :P
+343 :Blue 90...bsAway    :P
+344 :Blue 91...ngDogs    :P
+345 :Blue 92...odWhls    :P
+346 :Blue 93...rtwave    :P
+347 :Blue 94...TheLab    :P
+348 :Blue 95...anding    :P
+349 :Blue 96...eroids    :P
+350 :Blue 96...-ModEV    :P
+351 :Blue 97...romide    :P
+352 :Blue 99...Police    :P
+353 :Blue 10...oyTump    :P
+354 :Blue 10...cClimb    :P
+355 :Blue 10...Joggin    :P
+356 :Blue 10...rSweep    :P
+357 :Blue 10...ribean    :P
+358 :Blue 10... Samba    :P
+359 :Blue 10...latron    :P
+360 :Blue 10... !! !!    :P
+361 :Blue 10...kyDuck    :P
+362 :Blue 10...Pulsar    :P
+363 :Blue 11...loBuck    :P
+364 :Blue 11...tSnare    :P
+365 :Blue 11...seChow    :P
+366 :Blue 11...'Snare    :P
+367 :Blue 11...ySnare    :P
+368 :Blue 11...Jungle    :P
+369 :Blue 11...erKick    :P
+370 :Blue 11...tSnare    :P
+371 :Blue 11...scKick    :P
+372 :Blue 11...Cymbal    :P
+373 :Blue 12...Snare#    :P
+374 :Blue 12...reBeat    :P
+375 :Blue 12...R Kick    :P
+376 :Blue 12... Snare    :P
+377 :Blue 12...Closed    :P
+378 :Blue 12...CR Hat    :P
+379 :Blue 12...8 Kick    :P
+380 :Blue 12...itBass    :P
+381 :YELLOW              :B
+382 :Yellow ...itBass    :P
+383 :Yellow ...Pad001    :P
+384 :Yellow ...Pad002    :P
+385 :Yellow ...Pad003    :P
+386 :Yellow ...Pad004    :P
+387 :Yellow ...Pad005    :P
+388 :Yellow ...Pad006    :P
+389 :Yellow ...vement    :P
+390 :Yellow ...ouMoog    :P
+391 :Yellow ...iAngel    :P
+392 :Yellow ...sMtron    :P
+393 :Yellow ...iadMW2    :P
+394 :Yellow ...rastea    :P
+395 :Yellow ...r'sMom    :P
+396 :Yellow ...ght OB    :P
+397 :Yellow ...ass001    :P
+398 :Yellow ...yBrass    :P
+399 :Yellow ...Padlls    :P
+400 :Yellow ...the5th    :P
+401 :Yellow ...xSines    :P
+402 :Yellow ...reamer    :P
+403 :Yellow ...ertPad    :P
+404 :Yellow ...armPad    :P
+405 :Yellow ...yAcres    :P
+406 :Yellow ...ildren    :P
+407 :Yellow ...ronPad    :P
+408 :Yellow ...Voyage    :P
+409 :Yellow ...cology    :P
+410 :Yellow ...Lights    :P
+411 :Yellow ...alPadE    :P
+412 :Yellow ...eyWest    :P
+413 :Yellow ...ySynth    :P
+414 :Yellow ...nSweep    :P
+415 :Yellow ...siness    :P
+416 :Yellow ...nSweep    :P
+417 :Yellow ...ongDay    :P
+418 :Yellow ...ySweep    :P
+419 :Yellow ...Layer	    :P
+420 :Yellow ...rcity.    :P
+421 :Yellow ...alWarp    :P
+422 :Yellow ...ssComb    :P
+423 :Yellow ...artal	    :P
+424 :Yellow ...talker    :P
+425 :Yellow ...ceTube    :P
+426 :Yellow ...Matrox    :P
+427 :Yellow ...rizons    :P
+428 :Yellow ...ocojam    :P
+429 :Yellow ...meBack    :P
+430 :Yellow ...Lining    :P
+431 :Yellow ...adAcid    :P
+432 :Yellow ...Chorus    :P
+433 :Yellow ...kBrass    :P
+434 :Yellow ...pillar    :P
+435 :Yellow ...gHorns    :P
+436 :Yellow ...kBrass    :P
+437 :Yellow ...nHornz    :P
+438 :Yellow ...lHorns    :P
+439 :Yellow ...ssy5th    :P
+440 :Yellow ...Flugel    :P
+441 :Yellow ...ombone    :P
+442 :Yellow ...Froggy    :P
+443 :Yellow ...ercomp    :P
+444 :Yellow ...elyOne    :P
+445 :Yellow ...otwang    :P
+446 :Yellow ...craper    :P
+447 :Yellow ...tFunky    :P
+448 :Yellow ...htComp    :P
+449 :Yellow ...uckYou    :P
+450 :Yellow ...ormant    :P
+451 :Yellow ...kdrive    :P
+452 :Yellow ...llizer    :P
+453 :Yellow ...gazing    :P
+454 :Yellow ...gBongs    :P
+455 :Yellow ...'sBaby    :P
+456 :Yellow ...Valley    :P
+457 :Yellow ...fStyle    :P
+458 :Yellow ...eTongs    :P
+459 :Yellow ...llScat    :P
+460 :Yellow ...Dancer    :P
+461 :Yellow ...OfZoig    :P
+462 :Yellow ...fPiano    :P
+463 :Yellow ...ereoEP    :P
+464 :Yellow ...TheIon    :P
+465 :Yellow ...liOrgn    :P
+466 :Yellow ...ssKeys    :P
+467 :Yellow ...miVyce    :P
+468 :Yellow ...owarez    :P
+469 :Yellow ...siwarp    :P
+470 :Yellow ...sspipe    :P
+471 :Yellow ...Sitary    :P
+472 :Yellow ...ingZAP    :P
+473 :Yellow ...indyCc    :P
+474 :Yellow ...oseone    :P
+475 :Yellow ...Breath    :P
+476 :Yellow ...nstein    :P
+477 :Yellow ...DaRing    :P
+478 :Yellow ...ckDoor    :P
+479 :Yellow ...mVenus    :P
+480 :Yellow ...ounder    :P
+481 :Yellow ...hazzat    :P
+482 :Yellow ...huffle    :P
+483 :Yellow ...matics    :P
+484 :Yellow ...Washer    :P
+485 :Yellow ...AStory    :P
+486 :Yellow ...ahnJam    :P
+487 :Yellow ...roBass    :P
+488 :Yellow ...teBeat    :P
+489 :Yellow ...nJelly    :P
+490 :Yellow ...ronic	    :P
+491 :Yellow ...Battle    :P
+492 :Yellow ...reKick    :P
+493 :Yellow ...pHappy    :P
+494 :Yellow ...ftyZap    :P
+495 :Yellow ...: Head    :P
+496 :Yellow ...rFight    :P
+497 :Yellow ...Tapper    :P
+498 :Yellow ...chKick    :P
+499 :Yellow ...rSnare    :P
+500 :Yellow ...EXT IN    :P
+501 :Yellow ...EXT IN    :P
+502 :Yellow ...EXT IN    :P
+503 :Yellow ...EXT IN    :P
+504 :Yellow ...ocoder    :P
+505 :Yellow ...`Coder    :P
+506 :Yellow ...inTalk    :P
+507 :Yellow ...ocoder    :P
+508 :Yellow ...tronix    :P
+509 :Yellow ...efault    :P

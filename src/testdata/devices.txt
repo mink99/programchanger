@@ -1,0 +1,5 @@
+ion=Alesis ION 
+ion-2=Alesis ION2
+gm=General Midi
+prot=Proteus FX
+

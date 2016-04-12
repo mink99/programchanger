@@ -1,0 +1,266 @@
+  1 :General MIDI        :B
+  2 :Acousti... Piano    :P
+  3 :Bright ... Piano    :P
+  4 :Electri... Piano    :P
+  5 :Honky-tonk Piano    :P
+  6 :Electric Piano 1    :P
+  7 :Electric Piano 2    :P
+  8 :Harpsichord         :P
+  9 :Clavinet            :P
+ 10 :Celesta             :P
+ 11 :Glockenspiel        :P
+ 12 :Music Box           :P
+ 13 :Vibraphone          :P
+ 14 :Marimba             :P
+ 15 :Xylophone           :P
+ 16 :Tubular Bells       :P
+ 17 :Dulcimer            :P
+ 18 :Drawbar Organ       :P
+ 19 :Percussive Organ    :P
+ 20 :Rock Organ          :P
+ 21 :Church Organ        :P
+ 22 :Reed Organ          :P
+ 23 :Accordion           :P
+ 24 :Harmonica           :P
+ 25 :Tango Accordion     :P
+ 26 :Acousti...nylon)    :P
+ 27 :Acousti...steel)    :P
+ 28 :Electri...(jazz)    :P
+ 29 :Electri...clean)    :P
+ 30 :Electri...muted)    :P
+ 31 :Overdri...Guitar    :P
+ 32 :Distort...Guitar    :P
+ 33 :Guitar harmonics    :P
+ 34 :Acoustic Bass       :P
+ 35 :Electri...inger)    :P
+ 36 :Electri...(pick)    :P
+ 37 :Fretless Bass       :P
+ 38 :Slap Bass 1         :P
+ 39 :Slap Bass 2         :P
+ 40 :Synth Bass 1        :P
+ 41 :Synth Bass 2        :P
+ 42 :Violin              :P
+ 43 :Viola               :P
+ 44 :Cello               :P
+ 45 :Contrabass          :P
+ 46 :Tremolo Strings     :P
+ 47 :Pizzica...trings    :P
+ 48 :Orchestral Harp     :P
+ 49 :Timpani             :P
+ 50 :String ...mble 1    :P
+ 51 :String ...mble 2    :P
+ 52 :Synth Strings 1     :P
+ 53 :Synth Strings 2     :P
+ 54 :Choir Aahs          :P
+ 55 :Voice Oohs          :P
+ 56 :Synth Voice         :P
+ 57 :Orchestra Hit       :P
+ 58 :Trumpet             :P
+ 59 :Trombone            :P
+ 60 :Tuba                :P
+ 61 :Muted Trumpet       :P
+ 62 :French Horn         :P
+ 63 :Brass Section       :P
+ 64 :Synth Brass 1       :P
+ 65 :Synth Brass 2       :P
+ 66 :Soprano Sax         :P
+ 67 :Alto Sax            :P
+ 68 :Tenor Sax           :P
+ 69 :Baritone Sax        :P
+ 70 :Oboe                :P
+ 71 :English Horn        :P
+ 72 :Bassoon             :P
+ 73 :Clarinet            :P
+ 74 :Piccolo             :P
+ 75 :Flute               :P
+ 76 :Recorder            :P
+ 77 :Pan Flute           :P
+ 78 :Blown Bottle        :P
+ 79 :Shakuhachi          :P
+ 80 :Whistle             :P
+ 81 :Ocarina             :P
+ 82 :Lead 1 (square)     :P
+ 83 :Lead 2 ...tooth)    :P
+ 84 :Lead 3 ...liope)    :P
+ 85 :Lead 4 (chiff)      :P
+ 86 :Lead 5 (charang)    :P
+ 87 :Lead 6 (voice)      :P
+ 88 :Lead 7 (fifths)     :P
+ 89 :Lead 8 ... lead)    :P
+ 90 :Pad 1 (new age)     :P
+ 91 :Pad 2 (warm)        :P
+ 92 :Pad 3 (...synth)    :P
+ 93 :Pad 4 (choir)       :P
+ 94 :Pad 5 (bowed)       :P
+ 95 :Pad 6 (metallic)    :P
+ 96 :Pad 7 (halo)        :P
+ 97 :Pad 8 (sweep)       :P
+ 98 :FX 1 (rain)         :P
+ 99 :FX 2 (s...track)    :P
+100 :FX 3 (crystal)      :P
+101 :FX 4 (a...phere)    :P
+102 :FX 5 (b...tness)    :P
+103 :FX 6 (goblins)      :P
+104 :FX 7 (echoes)       :P
+105 :FX 8 (sci-fi)       :P
+106 :Sitar               :P
+107 :Banjo               :P
+108 :Shamisen            :P
+109 :Koto                :P
+110 :Kalimba             :P
+111 :Bag pipe            :P
+112 :Fiddle              :P
+113 :Shanai              :P
+114 :Tinkle Bell         :P
+115 :Agogo               :P
+116 :Steel Drums         :P
+117 :Woodblock           :P
+118 :Taiko Drum          :P
+119 :Melodic Tom         :P
+120 :Synth Drum          :P
+121 :Reverse Cymbal      :P
+122 :Guitar ... Noise    :P
+123 :Breath Noise        :P
+124 :Seashore            :P
+125 :Bird Tweet          :P
+126 :Telephone Ring      :P
+127 :Helicopter          :P
+128 :Applause            :P
+129 :Gunshot             :P
+130 :Gener...nk 1        :B
+131 :Wet Aco... Grand    :P
+132 :Wet Bri...oustic    :P
+133 :Wet Ele... Grand    :P
+134 :Wet Honky-tonk      :P
+135 :Detuned...iano 1    :P
+136 :Detuned...iano 2    :P
+137 :Coupled...ichord    :P
+138 :Pulse Clavinet      :P
+139 :Wet Vibraphone      :P
+140 :Wet Marimba         :P
+141 :Church Bell         :P
+142 :Detuned Organ 1     :P
+143 :Detuned Organ 2     :P
+144 :Church Organ 2      :P
+145 :Puff Organ          :P
+146 :Italian...ordion    :P
+147 :Ukulele             :P
+148 :12-String Guitar    :P
+149 :Hawaiian Guitar     :P
+150 :Chorus Guitar       :P
+151 :Funk Guitar         :P
+152 :Guitar Pinch        :P
+153 :Feedback Guitar     :P
+154 :Guitar Feedback     :P
+155 :Finger Slap         :P
+156 :Synth Bass 101      :P
+157 :Synth Bass 4        :P
+158 :Slow Violin         :P
+159 :Yang Qin            :P
+160 :Orchest...trings    :P
+161 :Synth Strings 3     :P
+162 :Choir Aahs 2        :P
+163 :Humming             :P
+164 :Analog Voice        :P
+165 :Bass Hit            :P
+166 :Dark Trumpet        :P
+167 :Trombone 2          :P
+168 :Muted Trumpet 2     :P
+169 :French Horn 2       :P
+170 :Brass Section 2     :P
+171 :Synth Brass 3       :P
+172 :Synth Brass 4       :P
+173 :Square Wave         :P
+174 :Saw Wave            :P
+175 :Wire Lead           :P
+176 :Delayed Lead        :P
+177 :Sine Pad            :P
+178 :Itopia              :P
+179 :Synth Mallet        :P
+180 :Echo Bell           :P
+181 :Sitar 2             :P
+182 :Taisho Koto         :P
+183 :Castanets           :P
+184 :Concert...s Drum    :P
+185 :Melodic Tom 2       :P
+186 :808 Tom             :P
+187 :Guitar Cut Noise    :P
+188 :Flute Key Click     :P
+189 :Rain                :P
+190 :Dog                 :P
+191 :Telephone 2         :P
+192 :Car-Engine          :P
+193 :Laughing            :P
+194 :Machine Gun         :P
+195 :Gener...nk 2        :B
+196 :Dry Aco... Grand    :P
+197 :Electri...iation    :P
+198 :Electri...iation    :P
+199 :Wet Harpsichord     :P
+200 :Carillon            :P
+201 :60's Organ 1        :P
+202 :Organ 5             :P
+203 :Church Organ 3      :P
+204 :Open Ny...Guitar    :P
+205 :Mandolin            :P
+206 :Mid Tone Guitar     :P
+207 :Funk Guitar 2       :P
+208 :Distort...Guitar    :P
+209 :Synth Bass 3        :P
+210 :Rubber Bass         :P
+211 :60's Strings        :P
+212 :6th Hit             :P
+213 :Bright Trombone     :P
+214 :Analog Brass 1      :P
+215 :Analog Brass 2      :P
+216 :Sine Wave           :P
+217 :Doctor Solo         :P
+218 :Echo Pan            :P
+219 :Electri...ussion    :P
+220 :String Slap         :P
+221 :Thunder             :P
+222 :Horse-Gallop        :P
+223 :Door Creaking       :P
+224 :Car-Stop            :P
+225 :Screaming           :P
+226 :Lasergun            :P
+227 :Gener...nk 3        :B
+228 :60's El... Piano    :P
+229 :Electri...Legend    :P
+230 :Open Harpsichord    :P
+231 :Organ 4             :P
+232 :Nylon Guitar 2      :P
+233 :Steel + Body        :P
+234 :Jazz Man            :P
+235 :Clavi Bass          :P
+236 :Attack Pulse        :P
+237 :Euro Hit            :P
+238 :Jump Brass          :P
+239 :Natural Lead        :P
+240 :Wind                :P
+241 :Bird 2              :P
+242 :Door Closing        :P
+243 :Car-Pass            :P
+244 :Punch               :P
+245 :Explosion           :P
+246 :Gener...nk 4        :B
+247 :Electri... Phase    :P
+248 :Hammer              :P
+249 :Sequenced Saw       :P
+250 :Stream              :P
+251 :Scratch             :P
+252 :Car-Crash           :P
+253 :Heart Beat          :P
+254 :Gener...nk 5        :B
+255 :Bubble              :P
+256 :Wind Chimes         :P
+257 :Siren               :P
+258 :Footsteps           :P
+259 :Gener...nk 6        :B
+260 :Train               :P
+261 :Gener...nk 7        :B
+262 :Jetplane            :P
+263 :Gener...nk 8        :B
+264 :Starship            :P
+265 :Gener...nk 9        :B
+266 :Burst Noise         :P

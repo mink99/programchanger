@@ -18,7 +18,7 @@ OPEN basepath$ + fn$ + ".rea" FOR INPUT AS #1
 OPEN basepath$ + fn$ + ".bnk" FOR OUTPUT AS #2
 OPEN basepath$ + fn$ + ".pat" FOR OUTPUT AS #3
 OPEN basepath$ + fn$ + ".txt" FOR OUTPUT AS #4
-REM stringtable reclen: 0x1Ds
+REM stringtable reclen: 0x1C : 29
 
 
 DO UNTIL EOF(1)

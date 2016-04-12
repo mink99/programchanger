@@ -1,0 +1,549 @@
+// .reabank files define MIDI bank/program (patch) information
+// for specific hardware or software devices
+
+// A bank entry lists the MSB, LSB, and bank name
+// for all the patches that follow, until the next bank entry.
+
+Bank 0 0 Keys
+0  kbd:GrandPno
+1  kbd:Heaven
+2  kbd:TinePno*
+3  kbd:7ftGrand
+4  kbd:ElGrand1
+5  kbd:Roadz 1
+6  kbd:Tine EP
+7  kbd:Claved
+Bank 0 0 Percussion
+8  prc:Marimba
+9  prc:Vibe>Mod
+10  prc:TimbaMal
+11  prc:Javanese
+12  prc:Celeste
+13  prc:Trinidad
+14  prc:Carillon
+15  prc:Glock
+Bank 0 0 Organ
+16  org:VintgeB3
+17  org:That B3
+18  org:Be Vocal
+19  org:Rock #2
+20  org:3rd Perc
+21  org:PureTone
+22  org:Synthgan
+23  org:Tarkus
+Bank 0 0 Guitar
+24  gtr:EcoStrat
+25  gtr:ClenStrt
+26  gtr:Acoustic
+27  gtr:12String
+28  gtr:CombPad*
+29  gtr:Funky
+30  gtr:Mutes
+31  gtr:Lazy G
+Bank 0 0 Bass
+32  bas:Miracle
+33  bas:& Harms
+34  bas:Jazzer
+35  bas:TurboSyn
+36  bas:FlintRok
+37  bas:FunkyPop
+38  bas:Chorused
+39  bas:Noser
+Bank 0 0 Strings
+40  str:Viol Duo
+41  str:BigViola
+42  str:BigCello
+43  str:Soloists
+44  str:PizzViol
+45  str:PizzCeli
+46  str:8va Pizz
+47  str:Quartet
+Bank 0 0 Ensemble
+48  ens:Xpresive
+49  ens:Orchstra
+50  ens:Moody
+51  ens:Symphony
+52  ens:VoxHuman
+53  ens:Str&Vox
+54  ens:Choir
+55  ens:OBString
+Bank 0 0 Brass
+56  brs:HdTrumpt
+57  brs:MutedTpt
+58  brs:Trombone
+59  brs:Fr Horns
+60  brs:Section*
+61  brs:Full On*
+62  brs:VelFalls
+63  brs:Layers
+Bank 0 0 REED
+64  red:SteroSax
+65  red:”G” Sax
+66  red:Bari Sax
+67  red:Soprano
+68  red:TwinMood
+69  red:Eng Horn
+70  red:DblSectn
+71  red:Oboe
+Bank 0 0 Pipe
+72  pip:VerbFlut
+73  pip:Whistle
+74  pip:ButtrFlu
+75  pip:Calliope
+76  pip:Herble
+77  pip:SynthVox
+78  pip:Pizzillo
+79  pip:Sakura
+Bank 0 0 Lead
+80  led:BrasSolo
+81  led:MeinSolo
+82  led:SoloMini
+83  led:Hollow
+84  led:Venus NV
+85  led:PortaMod
+86  led:BuzzSolo
+87  led:FuseHorn
+Bank 0 0 PAD
+88  pad:Dark Syn
+89  pad:Spiritu
+90  pad:RoxyMuse
+91  pad:Kryonite
+92  pad:DeString
+93  pad:CosmoMan
+94  pad:Guidance
+95  pad:Dynalog
+Bank 0 0 SYNTH
+96  syn:Krystala
+97  syn:Iron Man
+98  syn:Flashbak
+99  syn:Phantazi
+100  syn:RingHard
+101  syn:Zoundz
+102  syn:Watering
+103  syn:Glisando
+Bank 0 0 Ethno
+104  eth:JamSteel
+105  eth:Kyoto
+106  eth:Metalia
+107  eth:KingCong
+108  eth:Dulcimer
+109  eth:Balinese
+110  eth:Far East
+111  eth:Sitari *
+Bank 0 0 Drum
+112  drm:RockKit1
+113  drm:Wacky
+114  drm:SteroKit
+115  drm:SynthKit
+116  drm:Snares
+117  drm:Kicks
+118  drm:Cymbals
+119  drm:Tamborin
+Bank 0 0 FX
+120  sfx:Group #1
+121  sfx:WildBoy*
+122  sfx:Infinite
+123  sfx:LostSoul
+124  sfx:Cyclotrn
+125  sfx:Insects
+126  sfx:Control
+127  sfx:Fluterby
+Bank 0 1 Keys
+0  kbd:BritePno
+1  kbd:Dark Pno
+2  kbd:PnoSyn *
+3  kbd:ElGrand2
+4  kbd:Dramatic
+5  kbd:MedElPno
+6  kbd:Harpsicd
+7  kbd:Pizziano
+Bank 0 1 Percussion
+8  prc:Islander
+9  prc:OddVibes
+10  prc:Tamblock
+11  prc:Airimba
+12  prc:Xylofony
+13  prc:Submerge
+14  prc:Maletoid
+15  prc:CosmoBel
+Bank 0 1 Organ
+16  org:DrawBarz
+17  org:Mod>Lesl
+18  org:Clickety
+19  org:Chorus
+20  org:TheOther
+21  org:Smoothy*
+22  org:Reedy5th
+23  org:Church
+Bank 0 1 Guitar
+24  gtr:El 12Str
+25  gtr:& Winds
+26  gtr:El Jazz
+27  gtr:Baroque
+28  gtr:Baritone
+29  gtr:Pianotar
+30  gtr:Harmonic
+31  gtr:Feedback
+Bank 0 1 Bass
+32  bas:Thunder
+33  bas:El Viva
+34  bas:Fretles1
+35  bas:Slap #1
+36  bas:BigBotm*
+37  bas:DarkRock
+38  bas:Mystery
+39  bas:Bad Boy
+Bank 0 1 Strings
+40  str:Conductr
+41  str:Diverti
+42  str:Octaves
+43  str:XpresPiz
+44  str:PizzBass
+45  str:PizVioln
+46  str:Fr Cello
+47  str:Vienna
+Bank 0 1 Ensemble
+48  ens:Melotron
+49  ens:The Hall
+50  ens:Montovan
+51  ens:Concerto
+52  ens:Envious
+53  ens:Crystal*
+54  ens:SloStrng
+55  ens:Vostring
+Bank 0 1 Brass
+56  brs:Sax/Tpt
+57  brs:Big City
+58  brs:Fox Hunt
+59  brs:T.O.P. *
+60  brs:FullFall
+61  brs:ThePops*
+62  brs:Crispy
+63  brs:Syntho
+Bank 0 1 Reed
+64  red:Alto Sax
+65  red:5th Ave
+66  red:NoVibObo
+67  red:BariAlto
+68  red:BasnEHrn
+69  red:SecWinds
+70  red:CombViol
+71  red:ClarOboe
+Bank 0 1 Pipe
+72  pip:Piccolo
+73  pip:Chiffer
+74  pip:BrethFlt
+75  pip:Ocarina
+76  pip:Insprate
+77  pip:PanFlut*
+78  pip:EcoFlut*
+79  pip:Duces Hi
+Bank 0 1 Lead
+80  led:WynWoods
+81  led:SoftSolo
+82  led:Big Muff
+83  led:Chiff
+84  led:Mjr Solo
+85  led:Buzzard
+86  led:FrogFret
+87  led:Reedy
+Bank 0 1 PAD
+88  pad:Voices
+89  pad:NewerAge
+90  pad:Sweeper
+91  pad:Warm Up
+92  pad:Empyrean
+93  pad:PolySyn
+94  pad:Britenes
+95  pad:Essence
+Bank 0 1 Synth
+96  syn:echoist*
+97  syn:Mem Moog
+98  syn:Blue Ice
+99  syn:Atmos
+100  syn:Mod Harp
+101  syn:CyberGuy
+102  syn:Intervl5
+103  syn:Spheric
+Bank 0 1 Ethno
+104  eth:Kalimba
+105  eth:Amnesia
+106  eth:Shanai
+107  eth:TikiRoom
+108  eth:Lute
+109  eth:AsiaReed
+110  eth:JunglDrm
+111  eth:Noh Way*
+Bank 0 1 Drum
+112  drm:EchoBeat
+113  drm:Hip Kit*
+114  drm:Zip kit
+115  drm:Da Beat*
+116  drm:909 Kit
+117  drm:Syn Kit*
+118  drm:Latino
+119  drm:WinChime
+Bank 0 1 SFX
+120  sfx:Sub Rosa
+121  sfx:Too Wyrd
+122  sfx:Rockets
+123  sfx:ByTheSea
+124  sfx:Spacely
+125  sfx:Forestry
+126  sfx:Sputnik
+127  sfx:Whales
+
+Bank 0 2 Keys
+0  kbd:VryGrand
+1  kbd:RoadHaus
+2  kbd:DigPiano
+3  kbd:Grandios
+4  kbd:RoadzStr
+5  kbd:Roadz 2
+6  kbd:NoseClav
+7  kbd:Clavinet
+Bank 0 2 Percussion
+8  prc:Mod Vibe
+9  prc:Marimba2
+10  prc:MusicBox
+11  prc:Vibrafon
+12  prc:Bellafon
+13  prc:Blok Hed
+14  prc:TubeBels
+15  prc:Cylybels
+Bank 0 2 Organ
+16  org:Cathedra
+17  org:AnotherB
+18  org:B Again
+19  org:WarmTone
+20  org:Notre
+21  org:Accordia
+22  org:MouthHrp
+23  org:Obordian
+24  gtr:Guitaras
+25  gtr:The Hero
+26  gtr:AcStereo
+27  gtr:Buckeroo
+28  gtr:PalmMute
+29  gtr:Swirly
+30  gtr:Syn Mute
+31  gtr:8va Pick
+Bank 0 2 Bass
+32  bas:StonSlap
+33  bas:Fretles2
+34  bas:Syntheti
+35  bas:Fretles3
+36  bas:Super JX
+37  bas:Slapper
+38  bas:LosAngel
+39  bas:Jupiter
+Bank 0 2 Strings
+40  str:SoloViin
+41  str:SoloViol
+42  str:SoloCelo
+43  str:CntraBas
+44  str:Tremolo
+45  str:PizzCmbo
+46  str:OrchHarp
+47  str:TimpCelo
+Bank 0 2 Ensemble
+48  ens:Strings
+49  ens:Quartet2
+50  ens:SynStrng
+51  ens:XtraSlow
+52  ens:VoxSpred
+53  ens:StrayVox
+54  ens:Ominous
+55  ens:OrchHit*
+Bank 0 2 Brass
+56  brs:Trumpet
+57  brs:Big Band
+58  brs:Tuba
+59  brs:And Wind
+60  brs:FrHorns2
+61  brs:Tijuana
+62  brs:Gilespie
+63  brs:Layered*
+Bank 0 2 Reed
+64  red:Sax&Mute
+65  red:DblReedz
+66  red:TenorSax
+67  red:PowerSax
+68  red:SynthSax
+69  red:Layered*
+70  red:Bassoon
+71  red:BasClrnt
+Bank 0 2 Pipe
+72  pip:SynFlute
+73  pip:Flauta
+74  pip:8vaFlute
+75  pip:BrethEco
+76  pip:Bottle
+77  pip:Flut/Vox
+78  pip:Xpresivo
+79  pip:Picolode
+Bank 0 2 Lead
+80  led:Wissler
+81  led:MoogSol1
+82  led:New Ager
+83  led:Medium
+84  led:& Bass
+85  led:Hornz
+86  led:Xpresso
+87  led:MoogSol2
+Bank 0 2 Pad
+88  pad:AirStrng
+89  pad:UpRite
+90  pad:Vektor 4
+91  pad:Cortext
+92  pad:0 Gravty
+93  pad:Coolness
+94  pad:Grunge
+95  pad:Mythical
+Bank 0 2 Synth
+96  syn:Rain
+97  syn:Cubic Z
+98  syn:Phairest
+99  syn:PiPaBend
+100  syn:Nova
+101  syn:Burma
+102  syn:Wrinkles
+103  syn:MoonWalk
+Bank 0 2 Ethno
+104  eth:Fiddle
+105  eth:Kotoid
+106  eth:EastPluk
+107  eth:Sitarica
+108  eth:Shamisen
+109  eth:Koto
+110  eth:SteelDrm
+111  eth:Latimba*
+Bank 0 2 Drum
+112  drm:GM Drum*
+113  drm:LatinDrm
+114  drm:RokKit2
+115  drm:Rap Kit
+116  drm:Taiko
+117  drm:Tam Tam
+118  drm:AstroTmp
+119  drm:RevCymbl
+Bank 0 2 SFX
+120  sfx:MetlVapr
+121  sfx:WaleTale
+122  sfx:RubSlap
+123  sfx:YourHead
+124  sfx:telefone
+125  sfx:Spiritz
+126  sfx:En Furno
+127  sfx:Oh Heli
+
+
+Bank 0 3 Keys
+0  kbd:IceHeven
+1  kbd:PnoWinds
+2  kbd:PnoForte
+3  kbd:Pad/Pno
+4  kbd:Big Comp
+5  kbd:Pianorg
+6  kbd:Wurli EP
+7  kbd:Mute Pno
+Bank 0 3 Percussion
+8  prc:Equinox
+9  prc:Waterway
+10  prc:Disonant
+11  prc:Of China
+12  prc:Omens
+13  prc:VibroPad
+14  prc:Shining
+15  prc:BelleAir
+Bank 0 3 Organ
+16  org:ToTheBar
+17  org:Tocatta7
+18  org:5ths Bar
+19  org:Kalimgan
+20  org:Reedz
+21  org:Doner
+22  org:Fisamon
+23  org:& Bass
+Bank 0 3 Guitar
+24  gtr:PlukFair
+25  gtr:Warped
+26  gtr:LapSteel
+27  gtr:Combo12
+28  gtr:Fingerz
+29  gtr:Calm B4
+30  gtr:AgntCoop
+31  gtr:Xtopia
+Bank 0 3 Bass
+32  bas:FatSynth
+33  bas:Rouge
+34  bas:Sick One
+35  bas:RoundSyn
+36  bas:Slapper2
+37  bas:Mondoid
+38  bas:Kisser
+39  bas:Pulsar
+Bank 0 3 Strings
+40  str:PizzSter
+41  str:PizCntrl
+42  str:Swell
+43  str:DevDance
+44  str:PwrCello
+45  str:AhVienna
+46  str:Fairlite
+47  str:Thematic
+Bank 0 3 Ensemble
+48  ens:Mixture1
+49  ens:Legatto
+50  ens:Mixture2
+51  ens:PeaceOrc
+52  ens:Chromax
+53  ens:VoxWarpr
+54  ens:StrGlide
+55  ens:StrFalls
+Bank 0 3 Brass
+56  brs:Sesh Tpt
+57  brs:X-hibit
+58  brs:Chi-Town
+59  brs:Waterboy
+60  brs:Bones
+61  brs:Popster
+62  brs:DXster
+63  brs:& Voices
+Bank 0 3 Reed
+64  red:Fusion
+65  red:MythMakr
+66  red:SaxonSun
+67  red:Dead Sea
+68  red:Spring
+69  red:OBX Clar
+70  red:Claraboe
+71  red:Chamber
+Bank 0 3 Pipe
+72  pip:MuteFlut
+73  pip:Magical
+74  pip:CryOnMe
+75  pip:VerblAtk
+76  pip:Flutachi
+77  pip:The Flew
+78  pip:Bellwiss
+79  pip:FluteVox
+Bank 0 3 Lead
+80  led:Echo Tpt
+81  led:Miles D
+82  led:IsleyRok
+83  led:5thsLead
+84  led:Synister
+85  led:SynSushi
+86  led:OvrDrive
+87  led:PipeSolo
+Bank 0 3 Synth
+88  syn:LunaWind
+89  syn:BrassVox
+90  syn:DarkAges
+91  syn:Mtalovox
+92  syn:IceForst
+93  syn:Mortale
+94  syn:Terminus
+ 
+
