@@ -4,6 +4,8 @@
 // A bank entry lists the MSB, LSB, and bank name
 // for all the patches that follow, until the next bank entry.
 
+Name Default 
+
 Bank 0 0 Bank #1
 
 // A program entry simply lists the program number and patch name.

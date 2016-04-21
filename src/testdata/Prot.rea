@@ -3,7 +3,7 @@
 
 // A bank entry lists the MSB, LSB, and bank name
 // for all the patches that follow, until the next bank entry.
-
+Name Proteus FX
 Bank 0 0 Keys
 0  kbd:GrandPno
 1  kbd:Heaven
