@@ -1,9 +1,5 @@
-
 #ifndef VECTOR_H
 #define VECTOR_H
-
-
-#pragma message ">>>>>>>>>>>>>>>>>>> VECTOR_H"
 
 
 #include <stdint.h>
@@ -19,9 +15,6 @@ int FreeMem();
 // Minimal class to replace std::vector
 // Adds poor man Iterator thru ++ -- operator
 
-
-
-
 template<typename T>
 class Vector : public Printable
 {
@@ -32,6 +25,7 @@ class Vector : public Printable
     int8_t _cursor ;
     size_t d_growth ; // growth
     T *d_data; // Stores data
+    T err;
 
   public:
 
@@ -89,6 +83,10 @@ class Vector : public Printable
     {
       return d_size;
     };
+     size_t maxIndex() const
+    {
+      return d_size-1;
+    };
 
     void clear()
     {
@@ -107,7 +105,9 @@ class Vector : public Printable
     // Changeable getter
     T &operator[](size_t idx)
     {
-      if (idx > d_size) idx = 0;
+      //if (idx > d_size) idx = 0;
+      if (idx >= d_size) return err;
+
       if (idx < 0) idx = d_size - 1;
       _cursor = idx;
       return d_data[idx];
@@ -125,8 +125,8 @@ class Vector : public Printable
     }
     T &position(size_t idx)
     {
-      if (idx > d_size) _cursor = 0;
-      if (idx < 0) _cursor = d_size - 1;
+      if (idx >= d_size) idx = 0;
+      if (idx < 0) idx = d_size - 1;
       _cursor = idx;
       return d_data[_cursor];
     }
@@ -156,6 +156,10 @@ class Vector : public Printable
     {
       return _cursor;
     }
+    int8_t &cursor() const
+    {
+      return _cursor;
+    }
   private:
     void resize()
     {
@@ -165,7 +169,7 @@ class Vector : public Printable
       memcpy(newdata, d_data, d_size * sizeof(T));
       free(d_data);
       d_data = newdata;
-    };// Allocates double the old space
+    };
   public:
     size_t printTo(Print& p) const
     {
