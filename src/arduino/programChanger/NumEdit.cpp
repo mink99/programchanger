@@ -1,7 +1,4 @@
-#include <Key.h>
-#include <Keypad.h>
 
-#include <LiquidCrystal_I2C.h>
 #include "numedit.h"
 
 int NumEdit::edit(byte _col, byte _row, byte _len, int _min, int _max, int _value, char *formatBuf)
@@ -20,20 +17,15 @@ int NumEdit::edit(byte _col, byte _row, byte _len, int _min, int _max, int _valu
 
   return edit(fld, val);
 }
-int NumEdit::edit(byte _col, byte _row, byte _len, int _min, int _max, int _value)
-{
-  char fmt[6];
-  sprintf(fmt, "%%0%1dd", _len);
-  return edit(_col, _row, _len, _min, _max, _value, fmt);
-}
+
 int NumEdit:: edit(Field & fld, Value &val)
 {
   bool needsUpdate = false;
   char editBuf[6];
   int editCursor = 0;
-  
 
-  
+
+
   pLCD->blink();
   pLCD->cursor();
 
@@ -57,18 +49,14 @@ int NumEdit:: edit(Field & fld, Value &val)
 
     if (key)
     {
-      
+
       if (isDigit(key))
       {
         editBuf[editCursor] = key;
-        Serial.print("buf ");
-        Serial.print(editBuf);
         if (!parse(editBuf, val, fld, editCursor)) continue;
 
         needsUpdate = true;
         editCursor++;
-        Serial.print("cur ");
-        Serial.println(editCursor);
         if (editCursor >= fld.len)
         {
           update(fld, val);
@@ -82,60 +70,44 @@ int NumEdit:: edit(Field & fld, Value &val)
       {
         int n = val.value;
         n++;
-        int result = range(n, val, fld);
-        switch (result)
+        if (n > val.maxValue)
         {
-          case -1:
-            {
-              val.value = val.maxValue;
-              needsUpdate = true;
-              break;
-            }
-          case 0:
-            {
-              val.value = n;
-              needsUpdate = true;
-              break;
-            }
-          case 1:
-            {
-              val.value = val.minValue;
-              needsUpdate = true;
-              break;
-            }
+          val.value = val.minValue;
         }
+        else
+        {
+          val.value = n;
+        }
+
+        needsUpdate = true;
+        continue;
 
       }
       if (  key == '*' || key == '-')
       {
         int n = val.value;
         n--;
-        int result = range(n, val, fld);
-        switch (result)
+        if (n < val.minValue)
         {
-          case -1:
-            {
-              val.value = val.maxValue;
-              needsUpdate = true;
-              break;
-            }
-          case 0:
-            {
-              val.value = n;
-              needsUpdate = true;
-              break;
-            }
-          case 1:
-            {
-              val.value = val.minValue;
-              needsUpdate = true;
-              break;
-            }
-        }
+          val.value = val.maxValue;
 
+        }
+        else
+        {
+          val.value = n;
+        }
+        needsUpdate = true;
+        continue;
       }
+      setLastKey(key);
+      Serial.print("unknown KEY:");
+      Serial.println(key);
+      pLCD->noBlink();
+      pLCD->noCursor();
+      return val.value;
 
     }//end if
+
   }// end while
 
 };
@@ -156,6 +128,7 @@ int  NumEdit::range(int n, Value & v, Field &f, byte nPos )
   int n2 = n0 * n1;
   int n3 = n0 - 1;
   int n4 = n2 + n3;
+
   if ((n4 < v.minValue) )
   {
     return -1;
@@ -175,10 +148,11 @@ void NumEdit::update(Field & f, Value & v, byte cur)
   Serial.println(ch);
   pLCD->setCursor(f.col, f.row);
   pLCD->print(ch);
-  pLCD->setCursor(f.col + cur, f.row);
+  
   if (fUpdateHook)
   {
     fUpdateHook(v.value);
   }
+  pLCD->setCursor(f.col + cur, f.row);
 }
 

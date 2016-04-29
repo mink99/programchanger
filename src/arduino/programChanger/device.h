@@ -22,7 +22,7 @@ class Device: public Printable
 
 
 
-    Vector<Bank *> banks = Vector<Bank *>(12);
+    Vector<Bank *> banks = Vector<Bank *>(24);
 
 
     char name[13];
@@ -47,7 +47,11 @@ class Device: public Printable
     {
       return banks[index];
     }
-    Bank *getNextBank()
+    Bank *getCurrentBank()
+    {
+      return banks.current();
+    }
+     Bank *getNextBank()
     {
       return ++banks;
     }

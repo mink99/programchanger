@@ -63,6 +63,10 @@ class Bank : public Printable
     {
       patches.add(pPatch);
     }
+     Patch *getCurrentPatch()
+    {
+      return patches.current();
+    }
     Patch *getNextPatch()
     {
       return patches++;

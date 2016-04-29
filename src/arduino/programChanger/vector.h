@@ -4,7 +4,7 @@
 
 #include <stdint.h>
 #include <malloc.h>
-#include <printable.h>
+#include <print.h>
 
 
 
@@ -112,7 +112,11 @@ class Vector : public Printable
       _cursor = idx;
       return d_data[idx];
     }
-
+    T &current()
+    {
+     
+      return d_data[_cursor];
+    }
     T &end()
     {
       _cursor = d_size - 1;
