@@ -29,7 +29,10 @@ public:
         memset(name, 0, 17);
         strncpy(name, _name, 16);
     }
-    virtual ~Patch() {}
+    virtual ~Patch() 
+    {
+      alert("... ...Patch : destruct");
+      }
     char *getName()
     {
         return name;

@@ -10,7 +10,6 @@ using namespace std;
 #include "vector.h"
 #include "patch.h"
 
-#pragma message ">>>>>>>>>>>>>>>>>>> BANK_H"
 
 class Bank : public Printable
 {
@@ -43,6 +42,7 @@ class Bank : public Printable
     }
     virtual ~Bank()
     {
+      alert("...BANK : destruct");
       cleanup();
     }
     char *getName()
@@ -113,10 +113,12 @@ class Bank : public Printable
   private:
     void cleanup()
     {
+      alert("...BANK : cleanup");
+      patches.clear();
       for (int i = 0; i < patches.size(); i++)
       {
-        delete patches[i];
-        patches[i] = NULL;
+        //delete patches[i];
+        //patches[i] = NULL;
       }
     }
 };

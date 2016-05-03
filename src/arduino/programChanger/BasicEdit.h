@@ -6,6 +6,8 @@
 
 #include <LiquidCrystal_I2C.h>
 
+#include "memory.h"
+
 struct Field {
   byte col;
   byte row;

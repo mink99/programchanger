@@ -1,17 +1,76 @@
+#include <print.h>
+#include "vector.h"
 #include "ListEdit.h"
+
+int ListEdit::select (Vector<String *> items, int selectedItem)
+{
+  screen();
+  byte startIndex = selectedItem;
+  int itemCount = items.size();
+  update(items,  startIndex);
+
+  while (1)
+  {
+    if (fPollingHook)
+    {
+      fPollingHook();
+    }
+
+    char key = pKeypad->getKey();
+
+    if (key)
+    {
+      switch (key)
+      {
+        case 'D':
+          {
+            return startIndex;
+          }
+        case '+':
+        case '#':
+          {
+            startIndex++;
+            startIndex = wrap(startIndex, itemCount);
+            update(items, startIndex);
+            break;
+          }
+        case '-':
+        case '*':
+          {
+            startIndex--;
+            startIndex = wrap(startIndex, itemCount);
+            update(items, startIndex);
+            break;
+          }
+        default:
+          {
+            setLastKey(key);
+            return -1;
+          }
+      }
+    }
+  }
+}
 
 int ListEdit::select (char * items[], int itemCount, int selectedItem)
 {
 
+  Vector<String *> data;
 
-  screen();
-  byte startIndex = selectedItem;
-
-  startIndex = selectedItem;
-  update(items, itemCount, startIndex);
-
-  while (1)
+  for (int i = 0; i < itemCount; i++)
   {
+    String *s = new String(items[i]);
+    data.add(s);
+  }
+  return select(data, selectedItem);
+
+  /*
+    screen();
+    byte startIndex = selectedItem;
+    update(items, itemCount, startIndex);
+
+    while (1)
+    {
     if (fPollingHook)
     {
       fPollingHook();
@@ -50,26 +109,30 @@ int ListEdit::select (char * items[], int itemCount, int selectedItem)
       }
     }
 
-  }
+    }
+  */
 
 }
-int ListEdit::update(char * items[], int itemCount, int startIndex)
+
+
+int ListEdit::update(Vector<String *>items, int startIndex)
 {
+  int itemCount = items.size();
   int x0 = wrap(startIndex - 1, itemCount);
   int x1 = wrap(startIndex + 1, itemCount);
 
   pLCD->setCursor(4, 1);
   pLCD->print(x0);
   pLCD->print(" ");
-  pLCD->print("item");
+  pLCD->print(*items[x0]);
   pLCD->setCursor(4, 2);
   pLCD->print(startIndex);
   pLCD->print(" ");
-  pLCD->print("item");
+  pLCD->print(*items[startIndex]);
   pLCD->setCursor(4, 3);
   pLCD->print(x1);
   pLCD->print(" ");
-  pLCD->print("item");
+  pLCD->print(*items[x1]);
 
 
   return 0;
@@ -77,7 +140,7 @@ int ListEdit::update(char * items[], int itemCount, int startIndex)
 void ListEdit::screen()
 {
 
-
+  pLCD->clear();
   pLCD->setCursor(2, 0);
   //           12345678901234567890
   pLCD->write(165);
@@ -88,7 +151,7 @@ void ListEdit::screen()
   pLCD->setCursor(2, 1);
   pLCD->print((char)1);
   pLCD->setCursor(2, 2);
-  pLCD->print((char)126);
+  pLCD->print((char)2);
   pLCD->setCursor(2, 3);
   pLCD->print((char)1);
 
@@ -96,7 +159,7 @@ void ListEdit::screen()
   pLCD->setCursor(17, 1);
   pLCD->print((char)1);
   pLCD->setCursor(17, 2);
-  pLCD->print((char)127);
+  pLCD->print((char)2);
   pLCD->setCursor(17, 3);
   pLCD->print((char)1);
 };
@@ -108,3 +171,4 @@ int ListEdit::wrap(int x, int itemCount)
   if (x > ubound) return 0;
   return x;
 }
+

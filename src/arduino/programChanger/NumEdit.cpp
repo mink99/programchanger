@@ -100,8 +100,7 @@ int NumEdit:: edit(Field & fld, Value &val)
         continue;
       }
       setLastKey(key);
-      Serial.print("unknown KEY:");
-      Serial.println(key);
+      out << "unknown KEY: " << key << endl;
       pLCD->noBlink();
       pLCD->noCursor();
       return val.value;
@@ -145,7 +144,7 @@ void NumEdit::update(Field & f, Value & v, byte cur)
   char ch[6];
   memset(ch, 0, 6);
   sprintf(ch, v.fmt, v.value);
-  Serial.println(ch);
+  
   pLCD->setCursor(f.col, f.row);
   pLCD->print(ch);
   

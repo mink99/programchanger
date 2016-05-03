@@ -13,7 +13,7 @@
 
 
 
-void doReadReafile(char* name);
+void doReadReafile(String name);
 Bank *processBank(String s);
 void processPatch(Bank *pBank, String s, byte patchCount);
 void processName(String s);

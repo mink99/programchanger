@@ -13,16 +13,18 @@ class ListEdit : public BasicEdit
       pKeypad = _pKeypad;
     }
 
-    
+
     int select (char * items[], int itemCount, int selectedItem = 0);
+    int select (Vector<String *> items, int selectedItem = 0);
 
   private:
 
 
-   
-    int update(char * items[], int itemCount, int startIndex);
+    int update(Vector<String *> items, int startIndex);
+
     void screen();
     int wrap(int x, int max);
+
 
 };
 

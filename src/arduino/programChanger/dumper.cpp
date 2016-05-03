@@ -6,6 +6,7 @@
 
 using namespace std;
 
+#include "memory.h"
 #include "vector.h"
 
 
@@ -18,63 +19,51 @@ extern Device currentDevice;
 
 void dumpBank(Bank *pB)
 {
-  Serial.print(" ");
-  Serial.print(pB->getName());
-  Serial.print(" ");
-  Serial.print(pB->getCC0());
-  Serial.print("/");
-  Serial.print(pB->getCC32());
-  Serial.print("=");
-  Serial.println(pB->getPatchCount());
-  Serial.flush();
+  out << " " << pB->getName() << " " << pB->getCC0() << "/" << pB->getCC32() << "=" << pB->getPatchCount();
+  out.flush();
 }
 
 void testBanks()
 {
 
-  Serial.println();
-  Serial.println("----------------- Testing Banks ----------------- ");
-  Serial.flush();
+  out << "\n----------------- Testing Banks -----------------\n ";
+  out.flush();
 
   Bank *pB;
   Patch *pP;
-  Serial.print("iterating Banks per index... ");
-  Serial.print(currentDevice.getBankCount());
-  Serial.println("... ");
-  Serial.flush();
+  out << "iterating Banks per index... " << currentDevice.getBankCount() << "... ";
+  out.flush();
   for (int i = 0; i < currentDevice.getBankCount();  i++)
   {
     pB = currentDevice.getBank(i);
     dumpBank(pB);
   };
-  Serial.println();
-  Serial.println("iterating Banks per next... ");
-  Serial.flush();
+  
+  out << "\niterating Banks per next... ";
+  out.flush();
   pB = currentDevice.getBank(0);
   dumpBank(pB);
 
   for (int i = 0; i < 41;  i++)
-  {
-    pB = currentDevice.getNextBank();
+{
+  pB = currentDevice.getNextBank();
     dumpBank(pB);
-    Serial.print(i);
+    out << i;
 
   };
-  Serial.println();
+  out << endl;
 
   pB = currentDevice.getBank(5);
-  Serial.println("iterating Banks per previous... ");
+ out << "\nIterating Banks per previous... \n";
   for (int i = 0; i < 41;  i++)
-  {
-    pB = currentDevice.getPrevBank();
+{
+  pB = currentDevice.getPrevBank();
     dumpBank(pB);
-    Serial.print(i);
+    out << i;
 
   };
-  Serial.println();
-  Serial.println("----------finish Testing Banks ----------------- ");
-  Serial.print("MEM:");
-  Serial.println(FreeMem());
+  
+  out << "\n----------finish Testing Banks ----------------- " << "MEM:" << freeMem();
   Serial.flush();
 }
 void testPatches()
@@ -100,14 +89,14 @@ void testPatches()
   Serial.println("iterating Patches 2 on bank 1 per next on 93... ");
 
   pP = pB->getPatch(93);
-  Serial.println(*pP);
+  out << *pP << endl;
   for (int i = 0; i < 41;  i++)
   {
     pP = pB->getNextPatch();
-    Serial.println(*pP);
+    out << *pP << endl;
   };
-  Serial.println();
-  Serial.println("iterating Patches 3 on bank 1 per prev ... ");
+
+  out << "\n iterating Patches 3 on bank 1 per prev ...\n ";
 
 
   for (int i = 0; i < 41;  i++)
@@ -115,10 +104,8 @@ void testPatches()
     pP = pB->getPrevPatch();
     Serial.println(*pP);
   };
-  Serial.println();
-  Serial.println("------------finished Testing Patches ----------------- ");
-  Serial.print("MEM:");
-  Serial.println(FreeMem());
+
+  out << "\n ------------finished Testing Patches ----------------- " << "MEM:" << freeMem() << endl;
 
 
 }

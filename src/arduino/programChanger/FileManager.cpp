@@ -1,7 +1,7 @@
 
 #include "FileManager.h"
 
-void doReadReafile(char* name)
+void doReadReafile(String name)
 {
   // open the file. note that only one file can be open at a time,
   // so you have to close this one before opening another.
@@ -103,8 +103,8 @@ void processPatch(Bank *pBank, String s, byte patchCount)
   Patch *pPatch = new Patch(ch, patchCount, _devicePatchNr);
   if (pPatch == NULL)
   {
-    Serial.print("Patch Creation Failed");
-    Serial.flush();
+    out << "Patch Creation Failed";
+    out.flush();
     return;
   }
   pBank->addPatch(pPatch);

@@ -2,7 +2,7 @@
 
 #ifndef DEVICE_H
 #define DEVICE_H
-
+#pragma message ">>>>>>>>>>>>>>>>>>> DEVICE_H"
 #include <stdlib.h>
 
 using namespace std;
@@ -13,7 +13,7 @@ using namespace std;
 #include "bank.h"
 
 
-#pragma message ">>>>>>>>>>>>>>>>>>> DEVICE_H"
+
 
 class Device: public Printable
 {
@@ -51,7 +51,7 @@ class Device: public Printable
     {
       return banks.current();
     }
-     Bank *getNextBank()
+    Bank *getNextBank()
     {
       return ++banks;
     }
@@ -91,10 +91,12 @@ class Device: public Printable
     }
     void clear()
     {
+      alert("Device : Cleanup");
+      banks.clear();
       for (int i = 0; i < banks.size(); i++)
       {
-        delete banks[i];
-        banks[i] = NULL;
+        //delete banks[i];
+        //banks[i] = NULL;
       }
     }
 };

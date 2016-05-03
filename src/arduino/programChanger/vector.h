@@ -1,15 +1,16 @@
 #ifndef VECTOR_H
 #define VECTOR_H
 
+#pragma message ">>>>>>>>>>>>>>>>>>> VECTOR_H"
+
 
 #include <stdint.h>
 #include <malloc.h>
 #include <print.h>
 
+#include "memory.h"
 
 
-
-int FreeMem();
 
 
 // Minimal class to replace std::vector
@@ -90,6 +91,11 @@ class Vector : public Printable
 
     void clear()
     {
+      for (int i = 0; i < d_size; i++)
+      {
+        delete d_data[i];
+        d_data[i] = NULL;
+      }
       free(d_data);
       d_size = 0;
       d_capacity = 0;
@@ -186,7 +192,7 @@ class Vector : public Printable
       p.print(" elemSize:");
       p.print(sizeof(T));
       p.print(" freeMem:");
-      p.print(FreeMem());
+      p.print(freeMem());
       return 0;
     }
 };
